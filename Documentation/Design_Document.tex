@@ -1,0 +1,243 @@
+\documentclass[a4paper,12pt]{article}
+\usepackage{hyperref}
+\usepackage[english]{babel}
+\usepackage{graphicx}
+\usepackage[margin=1in]{geometry}
+\usepackage{fancyhdr}
+\usepackage{setspace}
+\usepackage{indentfirst}
+\pagestyle{fancy}
+\rhead{CIS3760 Assignment }
+\doublespacing
+\title{\includegraphics[width=\linewidth]{UNICOMLogo}\\Velocity Raptors Project Outline}
+\author{
+William (Aidan) Maher
+\and
+Nic Durish
+\and
+Jackson Keenan
+\and
+Anthony Mazzawi
+\\\\
+University of Guelph\\
+CIS*3760 Software Design\\
+Dennis Nikitenko\\\\
+}
+\date{\today}
+\begin{document}
+\clearpage\maketitle
+\thispagestyle{empty}
+\pagebreak
+\pagenumbering{roman}
+\tableofcontents
+\pagebreak
+\pagenumbering{arabic}
+
+\section{Functionality}
+\subsection{App Vision}
+
+
+Currently, the community of Guelph lacks a consistent, accurate and functional Public Transit phone application. The applications which are currently on the market either lack Global Position Satellite accuracy (RideGuelph, GryphPhone) or necessary community attention (Nextbus). Nextbus is currently the go-to in terms of public transit feedback, as they ‘guarantee’ times accurate to 1 minute. But in Guelph, Ontario we often see busses off route by over an hour. This is due to the lack of GPS’s on some of the busses and to unscheduled route changes by Guelph Transit. The Cannon outlined some of the systems flaws in \href{http://www.thecannon.ca/page.php?id=24&n=13970}{this article} - \url{http://www.thecannon.ca/page.php?id=24&n=13970}
+
+We intend on building an Android Application that provides Nextbus’s GPS information in a functional interface (which includes an actual map). However, unlike Nextbus we intend on tracing each bus route in Guelph, so we can easily remove busses that are too far off-route or off-schedule. We may then either inform Guelph Transit administration of the error or fall-back to the scheduled times and notify the user of the changes. 
+
+\subsection{Users}
+\begin{description}
+\item [Transit Riders] will use the application to get feedback on the current position of the bus. They can view bus locations, view their location, check the current state of the bus (GPS or schedule), check the bus schedule, favourite bus routes, change location settings, will be able to leave and view comments for each bus. 
+
+\item [Transit Drivers] will be able to use their phones GPS for routes if the bus is unable to be reached.
+
+\item [Transit Administration] will be able to change a busses state from ‘GPS’ to ‘scheduled’, and update the current location of each bus. 
+
+\end{description}
+
+\subsection{Requirements Table}
+\begin{tabular}{p{0.4cm}|p{2cm}|p{8cm}|p{1.7cm}}
+\# &Type&Requirement&MuSCoW\\
+\hline
+1 & System & Build and organize MySQL tables for transit schedule & Must \\
+\hline
+2 & System & Create excel parser, to pull transit times & Must \\
+\hline
+3 & System & Fill MySQL tables with transit times & Must \\
+\hline
+4 & System & The system provides a Home-Button, to navigate back to the home menu & Must \\
+\hline
+5 & User & Users are able to view Schedules in a Graphic User Interface & Must \\
+\hline
+6 & System & The system pulls GPS locations or Nextbus times & Must \\
+\hline
+7 & System & The system calculates the busses current location and estimated times to next stops & Must \\
+\hline
+8 & User & The user is able to select stops and busses to view estimated times (No map is available) & Must \\
+\hline
+9 & System & The system has integrated the Google Maps API & Must \\
+\hline
+10 & System & A map interface is built using the location of stops and busses & Must \\
+\hline
+11 & System & The pins on the map are linked to their respective bus and stop pages & Must \\
+\hline
+12 & User & The user is able to view a map of their community & Must \\
+\hline
+13 & User & The user is able ot view their current location & Must \\
+\hline
+14 & User & The user is able to select stops and busses on the map & Must \\
+\hline
+15 & System & The system recognizes invalid NextBus times or times that could have an error. The user is notified and the scheduled time is listed & Must \\
+\hline
+
+\end{tabular}
+
+\pagebreak
+
+\begin{tabular}{p{0.4cm}|p{2cm}|p{8.2cm}|p{1.7cm}}
+
+16 & User & The user recognizes GPS times vs Scheduled times & Must \\
+\hline
+17 & System & A 'Settings' page is available from the menu & Must \\
+\hline
+18 & System & An 'About' page is availabe from the menu & Must \\
+\hline
+19 & User & The user is able to change settings and learn about the app using the menu & Must \\
+\hline
+20 & System & The system is able to locate the user and find the nearest stops & Should \\
+\hline
+21 & System & The user is able to toggle 'Location'. The viewpoint zooms into the users current location and the nearest stops are shown. & Should \\
+\hline\\
+22 & System & The system is able to update instances of the database if requested & Should \\
+\hline\\
+23 & System & The system is able to auto-update the database if requested & Should \\
+\hline\\
+24 & User & The user is able to update their bus schedule from the 'Settings' menu & Should \\
+\hline\\
+25 & User & The user is able to toggle 'Auto-Updates' from the 'Settings' menu & Should \\
+\hline\\
+26 & System & The system is able to save a users favorite between sessions. The system orders these icons. & Should \\
+\hline\\
+27 & System & The system is able to add and clear favorites from a users list & Should \\
+\hline\\
+
+\end{tabular}
+
+\pagebreak
+
+\begin{tabular}{p{0.4cm}|p{2cm}|p{8cm}|p{1.7cm}}
+
+28 & User & The user is able to save favorites by holding down an icon & Should \\
+\hline\\
+29 & User & The user is able to to 'Favorites' to view all of their favorited busses and stops & Should \\
+\hline\\
+30 & User & The user is able to clear favorites through the 'Settings' menu & Should \\
+\hline
+31 & System & The system creates a 'Help' page in the menu, to help the user navigate the application & Should \\
+\hline\\
+32 & User & The user is able to navigate to the 'Help' page using the main menu. & Should \\
+\hline
+33 & System & The system builds a database for Administrator accounts and Transit-Driver tickets & Should \\
+\hline\\
+34 & System & The system allows users to sign in as a Driver or Administrator & Should \\
+\hline\\
+35 & System & System updates bus routes based on location of activated tickets (Transit-Drivers phone GPS) & Should \\
+\hline
+36 & System & System is able to deactivate invalid tickets, or tickets too far away from bus route. & Should\\
+\hline
+37 & System & The system is able to create tickets, designated to certain bus routes & Should \\
+\hline
+38 & System & The system deletes tickets after a designated amount of time & Should \\
+\hline\\
+
+\end{tabular}
+
+\pagebreak
+
+\begin{tabular}{p{0.4cm}|p{2cm}|p{8cm}|p{1.7cm}}
+
+39 & User & Administrators are able to sign in to create and delete tickets. Tickets decay over time & Should \\
+\hline
+40 & User & Transit-Drivers are able to log-in using ticket numbers and accept using their phone as the routes current location & Should \\
+\hline
+41 & System & The system is able to store user comments and user's average delay in a database & Could \\
+\hline
+42 & User & The user is able to submit what the average delay of a bus is at a certain stop & Could \\
+\hline
+43 & User & The user is able to comment on specific busses and stops and view others comments & Could \\
+\hline
+44 & System & The system provides a search functionality to search for, busses, stops and addresses & Could \\
+\hline
+45 & System & The user is able to search for busses, stops and addresses using the search function & Could \\
+\hline
+\end{tabular}
+
+\subsection{Features}
+Numbers in brackets are the rated score of the feature by each team member (10-50 increments of 10)
+\begin{description}
+\item [Must haves] \hfill \
+\item Complete list (database) of all city buses and schedules. (200)
+\item Ability to track bus location via GPS to give users a more accurate GUI allowing users to interact with the database to attain the transit information they need (200)
+\item A map interface showing the physical location of stops / busses. (180)
+\item [Should Haves] \hfill \
+\item Location based Services, to quickly find nearby buses / stops / you. (140)
+\item Ability for users to select ‘frequently used’ or ‘favourite’ busses for easy access. (130)
+\item Ability for app to update the busses/schedules. (120)
+\item Ability for transit drivers to use their phones as a GPS locator for the bus if the bus doesn’t have a GPS onboard. (110)
+\item [Would Be Nice] \hfill \
+\item Ability for transit admins to confirm whether or not buses have a GPS onboard. (90) 
+\item Ability to crowdsource bus arrival information from users (This is done by users submitting reports on the time of bus arrivals, independent of posted times) (70)
+\item Ability to comment leave / review comments for buses / routes (60)
+\end{description}
+
+
+\pagebreak
+\section{Stuff}
+\subsection{Platform} 
+	The target platform this project is a mobile app which can be used whenever someone needs to catch a bus. More specifically, it will be developed on Android.
+
+\subsection{Development Platform}
+The development platform is Android Studio and the app will be done in Java and XML.
+
+\subsection{Source code Storage}
+	The team will be using git to cooperatively develop the project. The source code as well
+as the documentation for this project will be hosted on Bit 
+Bucket.
+The repo is located at :
+
+https://yourbitbucketusername@bitbucket.org/JacksonKeenan/3760transit.git
+
+SSH : git@bitbucket.org:JacksonKeenan/3760transit.git
+
+\subsection{Third Party API's and SDK's}
+	For APIs, the plan is to use the Google Maps API and possibly NextBus'. The original plan was to contact Guelph Transit to use the GPS on their buses.  Unfortunately, they have not yet responded which means the next step in the plan is the NextBus API.
+
+
+\subsection{Artwork}
+	The group will be paying a graphic artist from Toronto to make a logo for the company. It will cost \$20 which the team will cover. She works for ExperiencePoint, a company
+ selling leadership training and development process training, 
+ "Working with most Fortune 100's top companies and the world's leading business schools." 
+ - http://www.experiencepoint.com/
+
+The artwork will be submitted with the submission of the design document on Feb 1.
+
+\subsection{Data Storage for App}
+	A database will be used to store the Guelph Transt bus schedule.  Guelph Transit has 
+posted their schedule online in a Google Doc, but it would be wise to save that 
+information in our own database just incase they decide to remove that information. 
+The database will be set up using mySQL and PHP will be used to connect it to Java (the app).
+ 
+ 
+\subsection{Starting Point}
+	Android/Google has recently released in the past two years more and more documentation, Devkits, and Documentation how to make Android apps. There are thousands of
+coding tutorials on Android made by third party users and people who make tutorials. 
+We have begun studying and watching videos on how Android folders are set up in the app,
+we have found tutorials on connecting mySQL to PHP to Java for database access on Android
+applications. 
+
+\pagebreak
+
+\section{Plan}
+
+\pagebreak
+
+\section{Architecture}
+\pagebreak
+
+\end{document}

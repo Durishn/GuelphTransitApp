@@ -1,0 +1,22 @@
+GuelphTransitWorkLog:
+	- March 2nd:	6:00  pm 	- 6:30pm 	> Research / Learning of Google Maps API
+	- March 3rd: 	12:30 pm 	- 3:15pm 	> Google Maps API: Learning / Updating AndriodManifest.xml, and build.gradle to work with Maps API
+	- March 4th: 	3:10  pm	- 4:10pm	> Google Maps API: Positioning - Map now centers and zooms to city
+	- March 5th: 	12:00 pm 	- 5:00pm 	> Google Maps API: Location Sensing / Stop Location Pins
+	- March 8th: 	10:30 pm	- 12:00pm 	> Google Maps API implemented in the stop pages w/ pins
+											> Setup Marker onClick for Main Page Markers
+											> Fixed Multiple Popup Bug
+	- March 14th:	6:50  pm	- 8:50pm	> Work on scraper + manual data entry
+	- March 15th:	2:30  pm	- 5:30pm	> Manual Data Entry for WebScaper
+	- March 19th:	2:30  pm	- 6:30pm	> Changed Stop Markers for route view
+											> Made popup close on home button press
+											> Slight rework to MainActivity
+											> Map centers on route in route view
+	- March 23rd	4:30  pm	- 6:00pm  	> Route Pins now link to stop pins
+	- March 24th	9:30  am 	- 11:00am	> Bug Fixes + Polylines (Google Maps API)
+	- March 25th	11:00 am 	- 1:00pm 	> Location View, Determining CLosest Stops
+	- March 27th 	4:00  pm	- 8:20pm	> Location View: Pins within radius of location (Overlapping)
+	- March 30th 	11:00 am	- 1:30pm	> Location View: Pins within radius of location (Overlapping) (ClickListeners)
+	- March 31st	7:00  am  	- 9:00am	> Location View: Pins within radius of location (Overlapping) (ClickListeners)
+					1:00  pm	- 6:00pm	> Bug Fixing, Quality Changes, ClickListener for SpecialBar
+	- April 1st		9:00  am 	- 10:30am	> Finished ClickListener for SpecialBar

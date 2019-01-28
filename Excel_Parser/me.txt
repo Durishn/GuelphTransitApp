@@ -1,0 +1,111 @@
+Files to read
+data/57_HarvardExpress.xlsx
+data/56_VictoriaExpress-30MinServiceSept2014.xlsx
+data/50_StoneRoadExpress.xlsx
+data/20_NorthwestIndustrial.xlsx
+data/16_Southgate-Oct62014.xlsx
+data/15_UniversityCollege.xlsx
+data/14_Grange.xlsx
+data/13_VRRC.xlsx
+data/12_GeneralHospital.xlsx
+data/11_WillowWest.xlsx
+data/10_Imperial.xlsx
+data/9_Waterloo.xlsx
+data/8_StoneRoadMall.xlsx
+data/7_KortrightDowney.xlsx
+data/6_HarvardIronwood.xlsx
+data/5_Gordon1.xlsx
+data/4_York.xlsx
+data/3B_EastLoop.xlsx
+data/3A_EastLoop.xlsx
+data/2B_WestLoop.xlsx
+data/2A_WestLoop-Oct62014.xlsx
+data/1B_CollegeEdinburgh.xlsx
+data/1A_CollegeEdinburgh.xlsx
+READING FILE  data/57_HarvardExpress.xlsx
+READING SHEET  0 data/57_HarvardExpress.xlsx
+READING FILE  data/56_VictoriaExpress-30MinServiceSept2014.xlsx
+READING SHEET  0 data/56_VictoriaExpress-30MinServiceSept2014.xlsx
+READING FILE  data/50_StoneRoadExpress.xlsx
+READING SHEET  0 data/50_StoneRoadExpress.xlsx
+READING FILE  data/20_NorthwestIndustrial.xlsx
+READING SHEET  0 data/20_NorthwestIndustrial.xlsx
+READING SHEET  1 data/20_NorthwestIndustrial.xlsx
+READING SHEET  2 data/20_NorthwestIndustrial.xlsx
+READING FILE  data/16_Southgate-Oct62014.xlsx
+READING SHEET  0 data/16_Southgate-Oct62014.xlsx
+READING SHEET  1 data/16_Southgate-Oct62014.xlsx
+READING SHEET  2 data/16_Southgate-Oct62014.xlsx
+READING FILE  data/15_UniversityCollege.xlsx
+READING SHEET  0 data/15_UniversityCollege.xlsx
+READING SHEET  1 data/15_UniversityCollege.xlsx
+READING SHEET  2 data/15_UniversityCollege.xlsx
+READING FILE  data/14_Grange.xlsx
+READING SHEET  0 data/14_Grange.xlsx
+READING SHEET  1 data/14_Grange.xlsx
+READING SHEET  2 data/14_Grange.xlsx
+READING FILE  data/13_VRRC.xlsx
+READING SHEET  0 data/13_VRRC.xlsx
+READING SHEET  1 data/13_VRRC.xlsx
+READING SHEET  2 data/13_VRRC.xlsx
+READING FILE  data/12_GeneralHospital.xlsx
+READING SHEET  0 data/12_GeneralHospital.xlsx
+READING SHEET  1 data/12_GeneralHospital.xlsx
+READING SHEET  2 data/12_GeneralHospital.xlsx
+READING FILE  data/11_WillowWest.xlsx
+READING SHEET  0 data/11_WillowWest.xlsx
+READING SHEET  1 data/11_WillowWest.xlsx
+READING SHEET  2 data/11_WillowWest.xlsx
+READING FILE  data/10_Imperial.xlsx
+READING SHEET  0 data/10_Imperial.xlsx
+READING SHEET  1 data/10_Imperial.xlsx
+READING SHEET  2 data/10_Imperial.xlsx
+READING FILE  data/9_Waterloo.xlsx
+READING SHEET  0 data/9_Waterloo.xlsx
+READING SHEET  1 data/9_Waterloo.xlsx
+READING SHEET  2 data/9_Waterloo.xlsx
+READING FILE  data/8_StoneRoadMall.xlsx
+READING SHEET  0 data/8_StoneRoadMall.xlsx
+READING SHEET  1 data/8_StoneRoadMall.xlsx
+READING SHEET  2 data/8_StoneRoadMall.xlsx
+READING FILE  data/7_KortrightDowney.xlsx
+READING SHEET  0 data/7_KortrightDowney.xlsx
+READING SHEET  1 data/7_KortrightDowney.xlsx
+READING SHEET  2 data/7_KortrightDowney.xlsx
+READING FILE  data/6_HarvardIronwood.xlsx
+READING SHEET  0 data/6_HarvardIronwood.xlsx
+READING SHEET  1 data/6_HarvardIronwood.xlsx
+READING SHEET  2 data/6_HarvardIronwood.xlsx
+READING FILE  data/5_Gordon1.xlsx
+READING SHEET  0 data/5_Gordon1.xlsx
+READING SHEET  1 data/5_Gordon1.xlsx
+READING SHEET  2 data/5_Gordon1.xlsx
+READING FILE  data/4_York.xlsx
+READING SHEET  0 data/4_York.xlsx
+READING SHEET  1 data/4_York.xlsx
+READING SHEET  2 data/4_York.xlsx
+READING FILE  data/3B_EastLoop.xlsx
+READING SHEET  0 data/3B_EastLoop.xlsx
+READING SHEET  1 data/3B_EastLoop.xlsx
+READING SHEET  2 data/3B_EastLoop.xlsx
+READING FILE  data/3A_EastLoop.xlsx
+READING SHEET  0 data/3A_EastLoop.xlsx
+READING SHEET  1 data/3A_EastLoop.xlsx
+READING SHEET  2 data/3A_EastLoop.xlsx
+READING FILE  data/2B_WestLoop.xlsx
+READING SHEET  0 data/2B_WestLoop.xlsx
+READING SHEET  1 data/2B_WestLoop.xlsx
+READING SHEET  2 data/2B_WestLoop.xlsx
+READING FILE  data/2A_WestLoop-Oct62014.xlsx
+READING SHEET  0 data/2A_WestLoop-Oct62014.xlsx
+READING SHEET  1 data/2A_WestLoop-Oct62014.xlsx
+READING SHEET  2 data/2A_WestLoop-Oct62014.xlsx
+READING FILE  data/1B_CollegeEdinburgh.xlsx
+READING SHEET  0 data/1B_CollegeEdinburgh.xlsx
+READING SHEET  1 data/1B_CollegeEdinburgh.xlsx
+READING SHEET  2 data/1B_CollegeEdinburgh.xlsx
+READING FILE  data/1A_CollegeEdinburgh.xlsx
+READING SHEET  0 data/1A_CollegeEdinburgh.xlsx
+READING SHEET  1 data/1A_CollegeEdinburgh.xlsx
+READING SHEET  2 data/1A_CollegeEdinburgh.xlsx
+23  files read:

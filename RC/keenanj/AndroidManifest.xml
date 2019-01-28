@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="velocityraptor.guelphtransit" >
+
+    <!-- Internet Permissions -->
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <!--
+         The following two permissions are not required to use
+         Google Maps Android API v2, but are recommended.
+    -->
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+
+    <!-- Application Parameters -->
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/title_app_name"
+        android:theme="@style/AppTheme" >
+
+        <!-- For Maps API -->
+        <meta-data
+            android:name="com.google.android.gms.version"
+            android:value="@integer/google_play_services_version" />
+        <meta-data
+            android:name="com.google.android.maps.v2.API_KEY"
+            android:value="AIzaSyClxcMpwEu5gZNGgqWnBXmboEcY_PuUMUs" />
+
+        <!-- Main Activity Parameters -->
+        <activity
+            android:name=".MainActivity"
+            android:label="@string/title_app_name"
+            android:screenOrientation="portrait" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <!-- Bus Schedule Activity Parameters -->
+        <activity
+            android:name=".ActivityScheduleBus"
+            android:label="@string/title_schedules_bus"
+            android:parentActivityName=".MainActivity"
+            android:screenOrientation="portrait" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".ActivityScheduleBus" />
+        </activity>
+        <!-- Stop Schedule Activity Parameters -->
+        <activity
+            android:name=".ActivityScheduledTimes"
+            android:label="@string/title_schedules_stop"
+            android:parentActivityName=".ActivityScheduleBus"
+            android:screenOrientation="portrait" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".ActivityScheduleBus" />
+        </activity>
+        <activity
+            android:name=".ActivityScheduledExpTimes"
+            android:label="@string/title_schedules_stop"
+            android:parentActivityName=".ActivityScheduleBus"
+            android:screenOrientation="portrait" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".ActivityScheduleBus" />
+        </activity>
+        <activity
+            android:name=".NotificationActivity"
+            android:label="@string/title_activity_notification" >
+        </activity>
+    </application>
+
+</manifest>

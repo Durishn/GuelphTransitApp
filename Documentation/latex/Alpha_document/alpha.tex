@@ -1,0 +1,163 @@
+\documentclass[a4paper,12pt]{article}
+\usepackage{hyperref}
+\usepackage[english]{babel}
+\usepackage{graphicx}
+\usepackage[margin=1in]{geometry}
+\usepackage{fancyhdr}
+\usepackage{setspace}
+\usepackage{indentfirst}
+\usepackage{afterpage}
+\usepackage{pdfpages}
+\pagestyle{fancy}
+\rhead{CIS3760 Assignment }
+%\doublespacing
+\title{\includegraphics[width=\linewidth]{logo2}\\Alpha Release}
+\DeclareGraphicsExtensions{.jpg}
+\author{
+William (Aidan) Maher
+\and
+Nic Durish
+\and
+Jackson Keenan
+\and
+Anthony Mazzawi
+\\\\
+University of Guelph\\
+CIS*3760 Software Design\\
+Dennis Nikitenko\\
+}
+
+\date{\today}
+\begin{document}
+\clearpage\maketitle
+\thispagestyle{empty}
+\pagebreak
+\pagenumbering{roman}
+\pagenumbering{arabic}
+\doublespacing
+\section{Milestone Completion}
+\subsection{Milestone 1}
+At this point we should have a program to fill the database (SQL) for the application. This database will be populated with the city's various bus schedules and routes. Using the application, users are able to navigate to each bus and stop to view its respective schedule. 
+\subsubsection{Completion Date:} Wednesday, February 11th, 2015
+\subsubsection{Responsibilities:}
+Aidan \& Anthony: Program for parsing data and filling the database.
+Jackson \& Nic: UI for viewing route schedules.
+\subsubsection{Requirements:} See DD Reqs(1, 2, 3, 5)
+
+\subsection{Milestone 2}
+A home button is introduced, to allow users to navigate back to the ‘Home’ screen. The schedules should be available in the user interface, however currently a map is unavailable.
+\subsubsection{Completion Date:} Wednesday, February 25th, 2015
+\subsubsection{Responsibilities:}
+Aidan \& Anthony : Writing Route and Stop Java classes. Pulling parsed data from the database and populating Java classes inside the Android app for Nic and Jackson to use to view on the UI.
+Jackson \& Nic: UI for navigating through buses / stops.
+\pagebreak
+\subsubsection{Requirements:}See DD Reqs (4, 8)
+\section{Technical Merit}
+Below is the list of files each member would like to take credit for. Some files were worked on by multiple people.
+There is also a set of notes for each member on their involvement in the project.
+\subsection{Anthony Mazzawi}
+Backend Programmer / Database Manager
+
+\subsubsection{Files and Time Estimates}
+sqlEntry.py (1 - 2 hours)
+
+DBController.java (30min - 1hr)
+
+JSONParser.java (15 minutes)
+
+Route.java,Stop.java (1 hour)
+
+MainActivity.java (1 hour)
+
+db\_ config.php, db\_ connect.php, getRoutes.php (25-30 minutes)
+
+
+\subsubsection{Notes}
+The original plan for sqlEntry.py was to receive the parsed data and store it into the database.  The coordinates from each stop were supposed to be retrieved from google places API but it was so inconsistent for every stop that it was decided to be done manually. This is an ongoing process which did not have to be completed right away due to the map not being a feature for the alpha. So far I have spent 5-6 hours inputting this data manually (20-30 min per Route) and I will still need to add more.  The next step in the process was to gather the information in the database and store it in the phone. This consists of most of the files created here with the exclusion of Route and Stop.
+\subsection{Jackson Keenan}
+Front-End (UI) Developer/Webtool Developer
+
+\subsubsection{Files and Time Estimates}
+
+slideInMenu.java (5 hours)
+
+nextBusScrape.py (3 hours)
+
+NextBusScrapper.java (5 hours)
+
+FragmentBotbarStop.java (12 hours) with XML layouts associated with it as well.
+
+\subsubsection{Notes}
+The first part of development was mainly spent learning about Android studio as well as testing various UI element prototypes over a couple weeks. I then built the WebScraper in Selenium. However due to the lack-luster speed of Selenium and the fact that it has to be run on the server, the team asked me to rebuild the scrapper with something that could be run on the phone, Aidan had suggested JSOUP. I then built the scrapper again in Jsoup, however it always scrapped the wrong bus times due to JSOUP’s inability to scrap Javascript generated HTML. I then Investigated many other parsers (Jaunt, Scrappy, etc) to no avail (2-3hrs). I additionally spent around 2hrs Updating the class diagram.’
+
+\subsection{William (Aidan) Maher}
+Backend Programmer / Team Document Editor
+
+\subsubsection{Files and Time Estimates}
+xlrdParse.py (8 hours)
+
+grabFiles.py (20 minutes)
+
+Route.java , Stop.java (1 hour)
+\subsubsection{Notes}
+When we were deciding how to populate the Java classes I did not know that Android had its own database (SQL-Lite) on the phone. Originally I spent about 6 hours learning about Android internal/external storage systems, editing manifest.xml for read/write file permissions on internal storage and was writing functions which Anthony's JSON pull-DB code would call. It was going to turn classes into text so that the classes would be stored locally on the phone via a canonical format I was in the middle of designing. 
+
+I also spent quite some time figuring out Guelph's Excel formats and how to use xlrd with it. It was not easy; in fact some of the Excel files had to be manually edited in order for them to work perfectly for the Alpha. Whoever wrote the excel files was not consistent in making sure specific cells had apostrophes in the end of them in order for the cell\_ type from xlrd to be consistent. This resulted in garbage data being put into the database which I would have to figure out how to fix. To start using xlrd, I used this tutorial and most of the code for looping through the Excel file is still there (http://www.youlikeprogramming.com/2012/03/examples-reading-excel-xls-documents-using-pythons-xlrd/).
+
+I also spent about 3 hours getting everyone's information together and formatting both the Alpha.pdf and DD.pdf as well as updating the DD.pdf and moving milestone times around, changing requirements for each milestones and changing member's tasks. As well as gathering everyone's files and with the Alpha submission.
+\subsection{Nic Durish}
+Front-end (UI) Developer / Android Developer
+\subsubsection{Files and Time Estimates}
+ActivityScheduleBus.java: 3 hours
+
+ActivityScheduledTimes.java: 2 hours
+
+AdapterBusList.java: 2 hours
+
+AdapterStopList.java: 30 minutes
+
+FragmentBotbarBus.java: 5 hours
+
+FragmentBotbarStop.java:1 hour
+
+MainActivity.java: 2 hours
+
+Route.java: 30 minutes
+	
+activity\_ main.xml: 2 hours
+
+fragment\_ busbar.xml: 1 hour
+
+icon\_ botbar\_ bus.xml: 2 hours
+
+icon\_ list\_ bus.xml: 1 hour
+
+page\_ schedule\_ times.xml: 4 hours
+
+These ten other XML Files were produced over the course of 4 hours, these files are much smaller, each taking 30 minutes or less of labour.
+
+AndroidManifest.xml
+
+rounded\_ corners\_ dark.xml
+
+icon\_ botbar\_ stop.xml
+
+icon\_ list\_ stop.xml
+
+page\_  listview\_  sched.xml
+
+textview\_  times.xml
+
+menu\_ main.xml
+
+color.xml
+
+strings.xml
+
+styles.xml
+
+
+\subsubsection{Notes}
+The first few weeks of development were spent starting multiple prototypes and learning all about Android Development within Android Studios. Almost all of the above files were created during the final week of Milestone 2 (Thank goodness I didn’t have too much coursework this week). Though if not for those couple weeks of trial-and-error experimentation I wouldn’t have had the skills or knowledge necessary to produce the necessary front-end.
+
+\end{document}

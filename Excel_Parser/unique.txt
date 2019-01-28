@@ -1,0 +1,508 @@
+Files to read
+data/57_HarvardExpress.xlsx
+data/56_VictoriaExpress-30MinServiceSept2014.xlsx
+data/50_StoneRoadExpress.xlsx
+data/20_NorthwestIndustrial.xlsx
+data/16_Southgate-Oct62014.xlsx
+data/15_UniversityCollege.xlsx
+data/14_Grange.xlsx
+data/13_VRRC.xlsx
+data/12_GeneralHospital.xlsx
+data/11_WillowWest.xlsx
+data/10_Imperial.xlsx
+data/9_Waterloo.xlsx
+data/8_StoneRoadMall.xlsx
+data/7_KortrightDowney.xlsx
+data/6_HarvardIronwood.xlsx
+data/5_Gordon1.xlsx
+data/4_York.xlsx
+data/3B_EastLoop.xlsx
+data/3A_EastLoop.xlsx
+data/2B_WestLoop.xlsx
+data/2A_WestLoop-Oct62014.xlsx
+data/1B_CollegeEdinburgh.xlsx
+data/1A_CollegeEdinburgh.xlsx
+READING FILE  data/57_HarvardExpress.xlsx
+READING SHEET  0 data/57_HarvardExpress.xlsx
+READING FILE  data/56_VictoriaExpress-30MinServiceSept2014.xlsx
+READING SHEET  0 data/56_VictoriaExpress-30MinServiceSept2014.xlsx
+READING FILE  data/50_StoneRoadExpress.xlsx
+READING SHEET  0 data/50_StoneRoadExpress.xlsx
+READING FILE  data/20_NorthwestIndustrial.xlsx
+READING SHEET  0 data/20_NorthwestIndustrial.xlsx
+READING SHEET  1 data/20_NorthwestIndustrial.xlsx
+READING SHEET  2 data/20_NorthwestIndustrial.xlsx
+READING FILE  data/16_Southgate-Oct62014.xlsx
+READING SHEET  0 data/16_Southgate-Oct62014.xlsx
+READING SHEET  1 data/16_Southgate-Oct62014.xlsx
+READING SHEET  2 data/16_Southgate-Oct62014.xlsx
+READING FILE  data/15_UniversityCollege.xlsx
+READING SHEET  0 data/15_UniversityCollege.xlsx
+READING SHEET  1 data/15_UniversityCollege.xlsx
+READING SHEET  2 data/15_UniversityCollege.xlsx
+READING FILE  data/14_Grange.xlsx
+READING SHEET  0 data/14_Grange.xlsx
+READING SHEET  1 data/14_Grange.xlsx
+READING SHEET  2 data/14_Grange.xlsx
+READING FILE  data/13_VRRC.xlsx
+READING SHEET  0 data/13_VRRC.xlsx
+READING SHEET  1 data/13_VRRC.xlsx
+READING SHEET  2 data/13_VRRC.xlsx
+READING FILE  data/12_GeneralHospital.xlsx
+READING SHEET  0 data/12_GeneralHospital.xlsx
+READING SHEET  1 data/12_GeneralHospital.xlsx
+READING SHEET  2 data/12_GeneralHospital.xlsx
+READING FILE  data/11_WillowWest.xlsx
+READING SHEET  0 data/11_WillowWest.xlsx
+READING SHEET  1 data/11_WillowWest.xlsx
+READING SHEET  2 data/11_WillowWest.xlsx
+READING FILE  data/10_Imperial.xlsx
+READING SHEET  0 data/10_Imperial.xlsx
+READING SHEET  1 data/10_Imperial.xlsx
+READING SHEET  2 data/10_Imperial.xlsx
+READING FILE  data/9_Waterloo.xlsx
+READING SHEET  0 data/9_Waterloo.xlsx
+READING SHEET  1 data/9_Waterloo.xlsx
+READING SHEET  2 data/9_Waterloo.xlsx
+READING FILE  data/8_StoneRoadMall.xlsx
+READING SHEET  0 data/8_StoneRoadMall.xlsx
+READING SHEET  1 data/8_StoneRoadMall.xlsx
+READING SHEET  2 data/8_StoneRoadMall.xlsx
+READING FILE  data/7_KortrightDowney.xlsx
+READING SHEET  0 data/7_KortrightDowney.xlsx
+READING SHEET  1 data/7_KortrightDowney.xlsx
+READING SHEET  2 data/7_KortrightDowney.xlsx
+READING FILE  data/6_HarvardIronwood.xlsx
+READING SHEET  0 data/6_HarvardIronwood.xlsx
+READING SHEET  1 data/6_HarvardIronwood.xlsx
+READING SHEET  2 data/6_HarvardIronwood.xlsx
+READING FILE  data/5_Gordon1.xlsx
+READING SHEET  0 data/5_Gordon1.xlsx
+READING SHEET  1 data/5_Gordon1.xlsx
+READING SHEET  2 data/5_Gordon1.xlsx
+READING FILE  data/4_York.xlsx
+READING SHEET  0 data/4_York.xlsx
+READING SHEET  1 data/4_York.xlsx
+READING SHEET  2 data/4_York.xlsx
+READING FILE  data/3B_EastLoop.xlsx
+READING SHEET  0 data/3B_EastLoop.xlsx
+READING SHEET  1 data/3B_EastLoop.xlsx
+READING SHEET  2 data/3B_EastLoop.xlsx
+READING FILE  data/3A_EastLoop.xlsx
+READING SHEET  0 data/3A_EastLoop.xlsx
+READING SHEET  1 data/3A_EastLoop.xlsx
+READING SHEET  2 data/3A_EastLoop.xlsx
+READING FILE  data/2B_WestLoop.xlsx
+READING SHEET  0 data/2B_WestLoop.xlsx
+READING SHEET  1 data/2B_WestLoop.xlsx
+READING SHEET  2 data/2B_WestLoop.xlsx
+READING FILE  data/2A_WestLoop-Oct62014.xlsx
+READING SHEET  0 data/2A_WestLoop-Oct62014.xlsx
+READING SHEET  1 data/2A_WestLoop-Oct62014.xlsx
+READING SHEET  2 data/2A_WestLoop-Oct62014.xlsx
+READING FILE  data/1B_CollegeEdinburgh.xlsx
+READING SHEET  0 data/1B_CollegeEdinburgh.xlsx
+READING SHEET  1 data/1B_CollegeEdinburgh.xlsx
+READING SHEET  2 data/1B_CollegeEdinburgh.xlsx
+READING FILE  data/1A_CollegeEdinburgh.xlsx
+READING SHEET  0 data/1A_CollegeEdinburgh.xlsx
+READING SHEET  1 data/1A_CollegeEdinburgh.xlsx
+READING SHEET  2 data/1A_CollegeEdinburgh.xlsx
+2121
+
+
+UNIQUE STOP LIST
+('5705', 'Harvard Rd. at Youngman Dr.')
+('5706', 'Ironwood Rd. at Reid Crt.')
+('5708', '632 Scottsdale Dr.')
+('5714', 'University Arrival')
+('5600', 'University Centre Departure')
+('5602', '1035 Victoria Rd.')
+('5603', 'Victoria Rd. S. at Arkell Rd.')
+('5604', 'Victoria Rd. S. at Summerfield Dr.')
+('5605', 'Victoria Rd. S at Katemore Dr.')
+('5606', 'Frederick Dr. at Waterford Dr.')
+('5607', '264 Colonial Dr.')
+('5608', 'Colonial Dr. north of Marsh Cr.')
+('5609', 'Colonial Dr. north of Bard Bv.')
+('5610', 'Gordon St. at Arkell Rd.')
+('5611', 'Gordon St. at Valley Dr.')
+('5618', 'University Centre Arrival')
+('5000', 'University Dep')
+('5003', 'Stone Rd. W. at Zellers')
+('5007', 'Stone Rd Mall')
+('2001', 'Woolwich St. at Norwich St. E.')
+('2002', 'London Rd. W. At Westmount Rd.')
+('2004', 'Willow Rd. at Willow Road P.S')
+('2005', 'Willow West Mall')
+('2006', 'Willow Rd. at Marksham Rd.')
+('2007', 'Willow Rd. at Westwood Public School')
+('2009', '577  Willow Rd. at Church')
+('2011', 'Elmira Rd N. at Flaherty Dr.')
+('2012', 'Elmira Rd. N. at Independence Pl.')
+('2013', 'Elmira Rd. at Massey Rd.')
+('2014', 'Elmira Rd. at Power Corp')
+('2015', '925 Woodlawn Rd. W.')
+('2016', 'Governors Rd. At Woodlawn Rd. W.')
+('2017', '110 Malcolm Rd.')
+('2018', '14 Malcolm Rd.')
+('2019', '2 Malcolm Rd.')
+('2020', '450 Michener Rd.')
+('2021', 'Michener Rd. at Minto Rd.')
+('2022', '530 Massey Rd.')
+('2023', 'Massey Rd. at Elmira Rd. N.')
+('2024', '400 Massey Rd.')
+('2025', '265 Massey Rd.')
+('2026', 'Massey Rd. At Imperial Rd. N.')
+('2027', 'Imperial Rd. at Woodlawn Rd. W')
+('2028', 'Imperial Rd. opposite Galaxy Cinema')
+('2029', '190 Curtis Dr. at Monarch Rd.')
+('2030', 'Curtis Dr. at Regal Rd.')
+('2031', 'Curtis Dr. at Silvercreek Pkwy. N.')
+('2032', 'Silvercreek Pkwy. N. at Woodlawn Rd. W.')
+('2033', 'Silvercreek Pkwy. N. at Campbell Rd.')
+('2034', 'Silvercreek Pkwy N. at  Speedvale Ave. W.')
+('2035', 'Silvercreek Pkwy. N. at Church')
+('2036', 'Silvercreek Pkwy. N. at Willow Rd.')
+('2037', 'Opposite Willow West Mall')
+('2038', 'Willow Rd. at Guelph St.')
+('2039', 'Willow Rd. at Alma St.')
+('2040', 'Willow Rd. at Baggot St.')
+('2044', 'Paisley St. at Norfolk St.')
+('1613', '1417 Gordon St.')
+('1615', 'Gordon St. at Clairfields Dr.')
+('1616', '25 Clairfields Dr. W.')
+('1617', 'Opposite 116 Clairfields Dr. W.')
+('1618', 'Clairfields Dr. W. at Boulder Cres.')
+('1619', 'Laird Rd. at Clair Rd. W.')
+('1620', 'Southgate Dr. at Laird Rd. ')
+('1621', '125 Southgate Dr.')
+('1622', '180 Southgate Dr.')
+('1623', '310 Southgate Dr.')
+('1624', '450 Southgate Dr.')
+('1625', '525 Southgate Dr.')
+('1626', '595 Southgate Dr.')
+('1627', '679 Southgate Dr.')
+('1628', 'Southgate Dr. at Corporate Rd.')
+('1629', 'Southgate Dr. at Admiral Pl.')
+('1630', '829 Southgate Dr.')
+('1631', '300 Clair Rd. (Water Tower)')
+('1632', 'Bishop Macdonell High School')
+('1633', 'Gosling Gardens at Clair Rd. W.')
+('1634', 'Gosling Garden Park')
+('1635', 'Gosling Gardens at Clairfields Dr. W. ')
+('1636', 'Gordon St. at Westminster Woods')
+('1647', 'Gordon St. at South Ring Rd.')
+('1652', 'Wellington St. E. at Wellington Plaza ')
+('1653', 'Wyndham St. S. at Fountain St.')
+('1503', 'Stone Rd. W. at Target')
+('1507', 'Stone Rd. W at Woodland Glen Dr.')
+('1508', 'College Ave. W. at Flanders Rd.')
+('1509', 'College Ave. W. at Conroy Cres.')
+('1510', 'College Ave. W. at Argyle Dr.')
+('1511', '506 College Ave. W.')
+('1512', 'College Ave. W. east of Hanlon')
+('1519', 'Stone Rd. opposite Target')
+('1401', 'Elizabeth St. at Duke St.')
+('1402', '65 Elizabeth St.')
+('1403', 'Elizabeth St. at Morris St.')
+('1404', 'Elizabeth St. at Stevenson St.')
+('1406', 'Grange Rd. at Victoria Rd. N.')
+('1407', 'Grange Rd. at Schroder Cres.')
+('1408', 'Grange Rd. at Breesgarden Lane')
+('1409', 'Grange Rd. at Ralston Dr.')
+('1410', 'Grange Rd. at Ken Danby School')
+('1411', 'Watson Pkwy. N. South of Grange Rd.')
+('1414', 'Starwood Dr. at Fleming Rd.')
+('1415', 'Starwood Dr. at Ralston Dr. ')
+('1416', 'Grange Rd. at Silurian Dr. ')
+('1417', 'Grange Rd. at Auden Rd.')
+('1418', 'Grange Rd. at St. James Park')
+('1419', 'Victoria Rd. N. at Grange Rd.')
+('1421', 'Elizabeth St. at Stevenson St. ')
+('1422', 'Elizabeth St. at Morris St. ')
+('1423', 'Elizabeth St. at Huron St.')
+('1424', 'Elizabeth St. at Red Chevron Club')
+('1301', 'Wyndham St. N. at Bank of Nova Scotia')
+('1303', 'Eramosa Rd. at St. Catharines St.')
+('1304', 'Metcalfe St. at Eramosa Rd.')
+('1305', 'Metcalfe St. at Lemon St.')
+('1306', 'Metcalfe St. at Palmer St.')
+('1307', 'Metcalfe St. at Grange St.')
+('1308', 'Grange St. at Clara St.')
+('1309', 'Grange St. at Louisa St')
+('1310', 'Grange St. at Stevenson St.')
+('1311', 'Cassino Ave. at William St. ')
+('1312', 'Cassino Ave. at Palermo Cres.')
+('1313', 'Cassino Ave. at Hadati Rd.')
+('1314', 'Hadati Rd. at Yeats Crt.')
+('1315', 'Hadati Rd. at Victoria Rd. N.')
+('1316', 'Eastview Rd. at Glenburnie Dr.')
+('1318', 'Starwood Dr. at Watt St.')
+('1319', 'Watt St. at Auden Rd.')
+('1320', 'Auden Rd. at Eastview Rd.')
+('1322', 'Eastview Rd. at VictoriaRd. ')
+('1323', 'Victoria Rd. N. at Greenview St. ')
+('1324', 'Eramosa Rd. at Orchard Cres.')
+('1325', 'Eramosa Rd. at Meyer Dr.')
+('1326', 'Eramosa Rd. at Stevenson St.')
+('1327', 'Eramosa Rd. at Metcalfe St.')
+('1328', 'Eramosa Rd. at Arthur St.')
+('1204', 'Delhi St. at Guelph General Hospital')
+('1207', 'Emma St. at Metcalfe St. ')
+('1208', 'Emma St. at Stevenson St. ')
+('1209', 'Speedvale Ave. E. at Stevenson St. ')
+('1210', 'Speedvale Ave. E. at Renfield St.')
+('1211', 'Speedvale Ave. E. at Acorn Pl.')
+('1214', 'Woodlawn Rd. E. at Victoria Rd. N.')
+('1215', 'Windsor St. at Kingsley Crt.')
+('1216', 'Waverly Dr. at Stevenson St.')
+('1217', 'Metcalfe St. at Waverley Dr. ')
+('1218', 'Metcalfe St. at Shaftesbury Ave.')
+('1219', 'Metcalfe St. at Speedvale  Ave.')
+('1220', 'Speedvale Ave. at Clive Ave.')
+('1221', 'Delhi St. at Phillip Ave.')
+('1224', 'Delhi St. at Spring St.')
+('1226', 'Eramosa Rd. at Arthur St. ')
+('1101', 'Norfolk St. at Albion')
+('1103', 'Suffolk St. W. at Dublin St.')
+('1105', 'Suffolk St. W. at Yorkshire St. N.')
+('1106', 'Suffolk St. W. at Edinburgh Rd. N. ')
+('1107', 'Edinburgh Rd. N. at Mercer St.')
+('1109', 'Dawson Rd. at Shelldale Cres.')
+('1110', 'Dawson Rd. at Dawson Road Medical Clinic')
+('1111', '229 Speedvale Ave. W.')
+('1112', 'Speedvale Ave. W. at Silvercreek Pkwy. N.')
+('1113', '361 Speedvale Ave. W. ')
+('1131', 'Marksham Rd. south of Speedvale Ave. W.')
+('1114', '177 Marksam Rd.')
+('1115', '145 Marksam Rd. ')
+('1116', '76 Marksam Rd. ')
+('1117', 'Willow Rd. at Silvercreek Pkwy.')
+('1118', '158 Willow Rd.')
+('1119', '66 Willow Rd. ')
+('1120', '26 Willow Rd. ')
+('1001', 'Quebec St. at B.M.O.')
+('1002', 'Paisley St. at Library')
+('1004', 'Paisley St. at G.C.V.I.')
+('1005', 'Paisley St. at Harrison Ave.')
+('1006', 'Paisley St. at Edinburgh Rd. N.')
+('1008', 'Paisley Rd. at Western Ave.')
+('1010', 'Westwood Rd. at Silvercreek Pkwy. N.')
+('1011', '85 Westwood Rd. ')
+('1012', '225 Westwood Rd. ')
+('1014', '577 Willow Rd. at Church')
+('1015', 'Imperial Rd. S. at Ferman Dr. ')
+('1016', 'West End Community Centre')
+('1017', '926 Paisley Rd. ')
+('1018', 'Paisley Rd. at Candlewood Dr.')
+('1019', 'Paisley Rd. at West Hill Estates')
+('1021', 'Paisley Rd. at Goldie Ave.')
+('1023', 'Paisley Rd. at Edinburgh Rd. N.')
+('1024', 'Paisley St. at Yorkshire St. N. ')
+('1027', 'Wyndham St. N. at IF Shoe store')
+('901', '3 Waterloo Ave. ')
+('903', 'Waterloo Ave. at Yorkshire St. S. ')
+('904', '225 Waterloo Ave. ')
+('905', 'Waterloo Ave. at Beachwood Ave. ')
+('906', '387 Waterloo Ave.')
+('907', '659 Wellington St. N. ')
+('908', 'Imperial Rd. S. at Wellington St. N.')
+('909', 'Imperial Rd. S. at Stephanie Dr. ')
+('910', 'Imperial Rd. S. at Deerpath Dr. ')
+('911', 'Imperial Rd. S.  at Paisley St. ')
+('912', 'Paisley Rd. at Zehrs')
+('913', 'Stephanie Dr. at Hollyberry Pl')
+('914', 'Stephanie Dr. at Imperial Rd. S.')
+('915', 'Imperial Rd. S. at West Acres Dr.')
+('916', 'Imperial Rd. S. at Tim Hortons')
+('918', '364 Waterloo Ave.')
+('919', 'Waterloo Ave. at St. Arnaud St.')
+('920', '180 Waterloo Ave. ')
+('922', 'Waterloo Ave. at Norfolk  St. ')
+('801', 'Wyndham St. S. at Farquhar St.')
+('804', 'Water St. at McCrae Blvd.')
+('805', 'Water St. at Maple St.')
+('806', 'Maple St. at Forest St.')
+('807', 'Forest St. at Park')
+('808', 'Edinburgh Rd. S. at Maplewood Dr.')
+('809', 'College Ave. W. at Edinburgh Rd. S.')
+('810', 'College Ave. W. at Centennial ')
+('811', '129 Janefield Ave.  ')
+('814', 'Scottsdale Dr. at Wilsonview Ave. ')
+('815', '220 Scottsdale Dr.')
+('816', 'Scottsdale Dr. at College Ave. W.')
+('818', 'Edinburgh Rd. S. at Floral Dr.')
+('819', 'Edinburgh Rd. S. at Lockyer Rd.')
+('820', 'Edinburgh Rd. S. at Municipal St. ')
+('821', 'Edinburgh Rd. S. at Honey Cres.')
+('822', 'Bristol St. at McGee St. ')
+('823', 'Yorkshire St. S. at Waterloo Ave.')
+('825', 'Waterloo Ave. at Norfolk St.')
+('703', 'Kortright Rd. W. at Yewholme Dr.')
+('706', 'Kortright Rd. W. at Hanlon Creek Park')
+('707', '555 Kortright Rd. W. ')
+('709', 'Downey Rd. at Woodland Glen Dr.')
+('710', 'Niska Rd. opposite Tanager Dr.')
+('711', 'Ptarmigan Dr. at Niska Rd.')
+('712', 'Ptarmigan Dr. at Pheasant Run Dr.')
+('713', 'Ptarmigan Dr. at Downey Rd.')
+('714', 'Downey Rd. at Hazelwood Dr.')
+('715', 'Downey Rd. at Niska Rd. ')
+('717', 'Kortright Rd. W. at Plaza')
+('718', 'Kortright Rd. W. opposite Hanlon Creek Park')
+('721', 'Kortright Rd. W. opposite Yewholme Dr.')
+('601', 'Gordon St. at Stone Rd. W. ')
+('605', 'Harvard Rd. at Youngman Dr. ')
+('606', 'Edinburgh Rd. at Laurelwood Crt.')
+('609', 'Scottsdale Dr. at Ironwood Rd. ')
+('610', 'Ironwood Rd. at Steffler Park')
+('611', 'Ironwood Rd. at Cole Rd.')
+('612', 'Ironwood Rd. at Woodborough Rd.')
+('613', 'Ironwood Rd. at Hilldale Cres.')
+('614', 'Ironwood Rd. at Brookhaven Crt.')
+('615', 'Ironwood Rd. at Kortright Rd. W.')
+('616', 'Scottsdale Dr. at Steffler Dr')
+('618', '692 Scottsdale Dr.')
+('621', 'Stone Rd. W. at Edinburgh Rd. S. ')
+('622', 'Youngman Dr. at Harvard Rd.')
+('624', 'Harvard Rd. at Rickson Ave.')
+('625', '35 Harvard Ave. at Plaza')
+('514', 'Arkell Rd. at Gordon St. ')
+('515', 'Arkell Rd. at Ridgeway Ave.')
+('516', 'Summerfield Dr. at Amsterdam Cres.')
+('517', 'Summerfield Dr. at Cummings Crt.')
+('518', 'Summerfield Dr. at Bright Lane')
+('519', 'Summerfield Dr. at Victoria Rd. S.')
+('520', 'Frederick Dr. at Waterford Dr. ')
+('521', 'Goodwin Dr. at Ray Cres.')
+('522', 'Goodwin Dr. at Orin Reid Park')
+('523', 'Goodwin Dr. at Sinclair St.')
+('524', 'Goodwin Dr. at Darling Cres. ')
+('525', 'Goodwin Dr. at Eugene Dr. ')
+('526', 'Farley Dr. at Porter Dr.')
+('527', 'Pine Ridge Dr. at Periwinkle Way')
+('528', 'Gordon St. at Lowes Rd.')
+('544', "Gordon St. at Harvey's")
+('545', 'City Hall')
+('401', 'Neeve St. at Ontario St.')
+('402', 'Ontario St. at Manitoba St.')
+('403', '168 Ontario St.')
+('404', 'Ontario St. at York Rd.')
+('405', 'York Rd. at Morris St.')
+('407', 'York Rd. at Audrey Ave.')
+('411', '895 York Rd.')
+('413', 'York Rd. at Graniteworx')
+('414', 'Watson Rd. S. at York Rd.')
+('415', 'Watson Rd. S. at Airpark Pl.')
+('416', 'Watson Rd. S. at Guelph Transit Centre')
+('417', 'Watson Pkwy. S. at Dunlop Dr.')
+('418', 'Watson Pkwy. S. at Cargill ')
+('419', 'Watson Pkwy. S. at Taggert St.')
+('424', 'York Rd. at Victoria Rd.')
+('426', 'York Rd. at Harris St.')
+('427', 'Ontario St. at Huron St. ')
+('428', '70 Ontario St.')
+('429', 'Ontario St. at Neeve St.')
+('359', 'Victoria Rd. S. at Stone Rd. E.')
+('363', '785 York Rd.')
+('365', 'Watson Pkwy. N. opposite Library')
+('368', 'Watson Pkwy. N. at  Eastview Rd.')
+('370', 'Eastview Rd. at Starwood Dr.')
+('372', 'Eastview Rd. at Victoria Rd.')
+('373', '211 Victoria Rd. N.')
+('378', 'Victoria Rd. N. opposite Trillium Waldorf')
+('379', 'Inverness Dr. at Wilton Rd.')
+('380', 'Inverness Dr. at Woodlawn Rd.')
+('382', 'Woodlawn Rd. E. at Country Club Dr.')
+('383', 'Woodlawn Rd. E. at Riverside Glen')
+('384', 'Woodlawn Rd. E. at Canadian Tire ')
+('386', 'Nicklin Rd. at Burns Dr.')
+('387', 'Bailey Ave. at Kathleen St.')
+('388', 'Kathleen St. at Speedvale Ave. W.')
+('389', 'Westmount Rd. at Kimberley Dr.')
+('392', 'Westmount Rd. at Lourdes')
+('393', 'Westmount Rd. at London Rd. W.')
+('394', 'Yorkshire St. N. at Home St. ')
+('396', 'Suffolk St. at Dublin St. Church')
+('397', '160 Woolwich St.')
+('304', 'Suffolk St. W. at Dublin St. N.')
+('306', 'Yorkshire St. N. at London Rd. W.')
+('307', 'Westmount Rd. at Lourdes ')
+('310', 'Westmount Rd. at Speedvale Ave. W.')
+('311', 'Kathleen St. at June Ave.')
+('312', 'Bailey Ave. at Nicklin Rd.')
+('313', 'Nicklin Rd. at Woodlawn Rd. W.')
+('314', 'Woodlawn Rd. W. at Woolwich St.')
+('315', '21 Woodlawn Rd. E. at Apartments')
+('316', 'Woodlawn Rd. E. opposite Seniors Centre')
+('317', 'Woodlawn Rd. E. at Fairway Lane')
+('319', 'Inverness Dr. at Glenbrook Dr.')
+('320', 'Inverness Dr. at Simmonds Dr.')
+('321', 'Victoria Rd. N. at Trillium Waldorf')
+('323', 'Victoria Rd. N . at Delta St. ')
+('326', "Victoria Rd. N. at St. Paul's Church")
+('327', 'Eastview Rd. at Glenburnie Dr. ')
+('329', 'Eastview Rd. at Auden Rd.')
+('338', 'Victoria Rd. at York Rd. ')
+('343', 'Gordon St. at Macdonald Stewart Art  Centre')
+('251', 'Wyndham St. at Bank of Nova Scotia')
+('253', 'Woolwich St. at Norwich St.')
+('255', 'Woolwich St. at Kerr St. ')
+('256', 'Woolwich St. at Powell St.')
+('257', 'Woolwich St. at Earl St.')
+('258', 'Woolwich St. at Speedvale Ave. ')
+('259', 'Woolwich St. at Evergreen Seniors Community Centre')
+('265', 'Woodlawn Rd. W. at Arrow Rd.')
+('270', 'Massey Rd. at Imperial Rd. N.')
+('271', 'Royal Rd. at Massey Rd.')
+('272', 'Royal Rd. at ARC Industries')
+('274', 'Imperial Rd. N. at Thornhill Dr.')
+('275', 'Imperial Rd. N. at Kipling Ave.')
+('276', 'Imperial Rd. N. at Willow Rd. ')
+('277', 'Willow Rd. at Flaherty Dr. ')
+('279', 'Elmira Rd.at Paisley Rd. ')
+('281', 'Elmira Rd. at Rochelle Dr.')
+('282', 'Fife Rd. at Elmira Rd.')
+('284', '26 Fife Rd. at Coop')
+('287', "Stone Rd. W. at McDonald's")
+('289', 'Stone Rd. W. opposite Target')
+('297', 'Wyndham St. at Fountain St.')
+('201', 'Wellington St. at KFC')
+('205', 'Gordon St. at College Ave.W.')
+('209', '659 Wellington St. W. ')
+('210', 'Fife Rd. at Wellington St. W.')
+('212', 'Fife Rd. at Deerfield Pl.')
+('213', 'Elmira Rd. at West Acres Dr.')
+('215', 'Elmira Rd. at Stephanie Dr.')
+('216', 'Elmira Rd. at Zehrs')
+('219', 'Imperial Rd. N. at Willow Rd.')
+('220', 'Imperial Rd. N. at Dunhill Cres.')
+('221', 'Imperial Rd. N. at Westwood Rd.')
+('223', 'ARC Industries')
+('224', 'Royal Rd. at Massey Rd. (Guelph Tool)')
+('225', 'Massey Rd. at Imperial Rd.')
+('233', 'Woodlawn Rd. W. at Woolwich St. ')
+('235', 'Woolwich St. at Evergreen')
+('236', 'Woolwich St. at Mac Ave.')
+('237', 'Woolwich St. at Tiffany St.')
+('239', 'Woolwich St. at Wyndham St. N.')
+('151', 'East Ring Rd. at Arboretum Rd.')
+('154', 'College Ave. W. at Caledonia St.')
+('155', 'College Ave. W. at Edinburgh Rd.')
+('156', 'College Ave. W. at Centennial')
+('161', '292 Stone Rd. W.')
+('162', '583 Edinburgh Rd. S.')
+('163', '685 Edinburgh Rd. S.')
+('164', '777 Edinburgh Rd. S.')
+('165', 'Edinburgh  Rd. S. at Southcreek Trail')
+('105', '1155 Gordon St.')
+('109', 'Edinburgh Rd. S. at Ginger Crt.')
+('110', 'Edinburgh Rd. S. at Rogers Rd.')
+('111', 'Edinburgh Rd. S. at Koch Dr.')
+('112', 'Edinburgh Rd. S. at Laurelwood Crt.')
+('115', '181 Janefield Ave.')
+('116', '53 Janefield Ave.')
+('117', '264 College Ave. W.')
+('119', '50 College Ave. W.')
+('122', 'East Ring Rd. at Arboretum Rd. ')

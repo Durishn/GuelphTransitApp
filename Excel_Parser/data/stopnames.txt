@@ -1,0 +1,2141 @@
+University Centre
+Gordon St. at Stone Rd. W.
+Gordon St. at Harvard Rd.
+Harvard Rd. at Shakespeare Arms
+Harvard Rd. at Princeton Pl.
+Harvard Rd. at Youngman Dr.
+Ironwood Rd. at Reid Crt.
+711 Scottsdale Dr.
+632 Scottsdale Dr.
+Scottsdale Dr. at Stone Rd. W.
+372 Stone Rd. W.
+Stone Rd. W. at Edinburgh Rd. S.
+Stone Rd. opposite Zellers
+95 Stone Rd. W.
+University Arrival
+NexBus ID
+University Centre Departure
+Stone Rd. E. at Victoria Rd. S.
+1035 Victoria Rd. 
+Victoria Rd. S. at Arkell Rd.
+Victoria Rd. S. at Summerfield Dr.
+Victoria Rd. S at Katemore Dr.
+Frederick Dr. at Waterford Dr. 
+264 Colonial Dr. 
+Colonial Dr. north of Marsh Cr. 
+Colonial Dr. north of Bard Bv.
+Gordon St. at Arkell Rd. 
+Gordon St. at Valley Dr. 
+Gordon St. at Landsdown Dr.
+Gordon St. at Harts Lane
+1030 Gordon St.
+Gordon St. at Kortright Rd. 
+Gordon St. at Hands Dr.
+Gordon St. at Monticello Cres. 
+University Centre Arrival
+NexBus ID
+University Dep
+Stone Rd. W. at Gordon St. 
+Stone Rd. W. at Fire Hall
+Stone Rd. W. at Zellers
+Stone Rd. W. Edinburgh Rd. S.
+Stone Rd. W. at Stone Rd Mall
+Stone Rd. W. at Scottsdale Dr.
+Stone Rd Mall
+Scottsdale Dr. at Wilsonview Ave.
+Wilsonview Ave.
+Edinburgh Rd at Chancellors Way
+Stone Rd. opposite Zellers
+95 Stone Rd. W.
+University Centre
+Guelph Central Station
+Woolwich St. at Norwich St. E.
+London Rd. W. At Westmount Rd.
+Willow Rd. at Dawson Rd.
+Willow Rd. at Willow Road P.S
+Willow West Mall
+Willow Rd. at Marksham Rd.
+Willow Rd. at Westwood Public School
+Willow Rd. at Westwood Rd.
+577  Willow Rd. at Church
+Willow Rd. at Flaherty Dr.
+Elmira Rd N. at Flaherty Dr.
+Elmira Rd. N. at Independence Pl.
+Elmira Rd. at Massey Rd.
+Elmira Rd. at Power Corp
+925 Woodlawn Rd. W.
+Governors Rd. At Woodlawn Rd. W.
+110 Malcolm Rd.
+14 Malcolm Rd.
+2 Malcolm Rd.
+450 Michener Rd.
+Michener Rd. at Minto Rd.
+530 Massey Rd.
+Massey Rd. at Elmira Rd. N.
+400 Massey Rd.
+265 Massey Rd.
+Massey Rd. At Imperial Rd. N.
+Imperial Rd. at Woodlawn Rd. W
+Imperial Rd. opposite Galaxy Cinema
+190 Curtis Dr. at Monarch Rd.
+Curtis Dr. at Regal Rd.
+Curtis Dr. at Silvercreek Pkwy. N.
+Silvercreek Pkwy. N. at Woodlawn Rd. W.
+Silvercreek Pkwy. N. at Campbell Rd.
+Silvercreek Pkwy N. at  Speedvale Ave. W.
+Silvercreek Pkwy. N. at Church
+Silvercreek Pkwy. N. at Willow Rd.
+Opposite Willow West Mall
+Willow Rd. at Guelph St.
+Willow Rd. at Alma St.
+Willow Rd. at Baggot St.
+200 Edinburgh Rd. N.
+Paisley St. at Yorkshire St. N.
+Paisley St. at Glasgow St.
+Paisley St. at Norfolk St.
+Wyndham St. N. at IF Shoe Store
+Guelph Central Station
+NexBus ID
+Guelph Central Station
+Woolwich St. at Norwich St. E.
+London Rd. W. At Westmount Rd.
+Willow Rd. at Dawson Rd.
+Willow Rd. at Willow Road P.S
+Willow West Mall
+Willow Rd. at Marksham Rd.
+Willow Rd. at Westwood Public School
+Willow Rd. at Westwood Rd.
+577  Willow Rd. at Church
+Willow Rd. at Flaherty Dr.
+Elmira Rd N. at Flaherty Dr.
+Elmira Rd. N. at Independence Pl.
+Elmira Rd. at Massey Rd.
+Elmira Rd. at Power Corp
+925 Woodlawn Rd. W.
+Governors Rd. At Woodlawn Rd. W.
+110 Malcolm Rd.
+14 Malcolm Rd.
+2 Malcolm Rd.
+450 Michener Rd.
+Michener Rd. at Minto Rd.
+530 Massey Rd.
+Massey Rd. at Elmira Rd. N.
+400 Massey Rd.
+265 Massey Rd.
+Massey Rd. At Imperial Rd. N.
+Imperial Rd. at Woodlawn Rd. W
+Imperial Rd. opposite Galaxy Cinema
+190 Curtis Dr. at Monarch Rd.
+Curtis Dr. at Regal Rd.
+Curtis Dr. at Silvercreek Pkwy. N.
+Silvercreek Pkwy. N. at Woodlawn Rd. W.
+Silvercreek Pkwy. N. at Campbell Rd.
+Silvercreek Pkwy N. at  Speedvale Ave. W.
+Silvercreek Pkwy. N. at Church
+Silvercreek Pkwy. N. at Willow Rd.
+Opposite Willow West Mall
+Willow Rd. at Guelph St.
+Willow Rd. at Alma St.
+Willow Rd. at Baggot St.
+200 Edinburgh Rd. N.
+Paisley St. at Yorkshire St. N.
+Paisley St. at Glasgow St.
+Paisley St. at Norfolk St.
+Wyndham St. N. at IF Shoe Store
+Guelph Central Station
+NexBus ID
+Guelph Central Station
+Woolwich St. at Norwich St. E.
+London Rd. W. At Westmount Rd.
+Willow Rd. at Dawson Rd.
+Willow Rd. at Willow Road P.S
+Willow West Mall
+Willow Rd. at Marksham Rd.
+Willow Rd. at Westwood Public School
+Willow Rd. at Westwood Rd.
+577  Willow Rd. at Church
+Willow Rd. at Flaherty Dr.
+Elmira Rd N. at Flaherty Dr.
+Elmira Rd. N. at Independence Pl.
+Elmira Rd. at Massey Rd.
+Elmira Rd. at Power Corp
+925 Woodlawn Rd. W.
+Governors Rd. At Woodlawn Rd. W.
+110 Malcolm Rd.
+14 Malcolm Rd.
+2 Malcolm Rd.
+450 Michener Rd.
+Michener Rd. at Minto Rd.
+530 Massey Rd.
+Massey Rd. at Elmira Rd. N.
+400 Massey Rd.
+265 Massey Rd.
+Massey Rd. At Imperial Rd. N.
+Imperial Rd. at Woodlawn Rd. W
+Imperial Rd. opposite Galaxy Cinema
+190 Curtis Dr. at Monarch Rd.
+Curtis Dr. at Regal Rd.
+Curtis Dr. at Silvercreek Pkwy. N.
+Silvercreek Pkwy. N. at Woodlawn Rd. W.
+Silvercreek Pkwy. N. at Campbell Rd.
+Silvercreek Pkwy N. at  Speedvale Ave. W.
+Silvercreek Pkwy. N. at Church
+Silvercreek Pkwy. N. at Willow Rd.
+Opposite Willow West Mall
+Willow Rd. at Guelph St.
+Willow Rd. at Alma St.
+Willow Rd. at Baggot St.
+200 Edinburgh Rd. N.
+Paisley St. at Yorkshire St. N.
+Paisley St. at Glasgow St.
+Paisley St. at Norfolk St.
+Wyndham St. N. at IF Shoe Store
+Guelph Central Station
+Guelph Central Station
+Wellington St. E. at KFC
+Gordon St. at Water St.
+Gordon St. at Forbes Ave.
+Gordon St. at Dean Ave.
+Gordon St. at College Ave.
+Gordon St. at Stone Rd. W.
+Gordon St. at Harvard Rd. 
+Gordon St. at Kortright Rd. 
+Gordon St. at Harts Lane
+1155 Gordon St. 
+Gordon St. at Edinburgh Rd. S.
+Gordon St. at Arkell Rd. 
+1417 Gordon St.
+Gordon St. at Lowes Rd. 
+Gordon St. at Clairfields Dr.
+25 Clairfields Dr. W.
+Opposite 116 Clairfields Dr. W.
+Clairfields Dr. W. at Boulder Cres.
+Laird Rd. at Clair Rd. W.
+Southgate Dr. at Laird Rd. 
+125 Southgate Dr.
+180 Southgate Dr.
+310 Southgate Dr.
+450 Southgate Dr.
+525 Southgate Dr.
+595 Southgate Dr.
+679 Southgate Dr.
+Southgate Dr. at Corporate Rd.
+Southgate Dr. at Admiral Pl.
+829 Southgate Dr.
+300 Clair Rd. (Water Tower)
+Bishop Macdonell High School
+Gosling Gardens at Clair Rd. W.
+Gosling Garden Park
+Gosling Gardens at Clairfields Dr. W. 
+Gordon St. at Westminster Woods
+Gordon St. at Lowes Rd. 
+Gordon St. at Continuing Education
+Gordon St. at Arkell Rd. 
+Gordon St. at Valley Rd.
+Gordon St. at Landsdown Dr.
+Gordon St. at Harts Lane
+1030 Gordon St.
+Gordon St. at Kortright Rd. 
+Gordon St. at Hands Dr.
+Gordon St. at Monticello Cres. 
+Gordon St. at South Ring Rd.
+Gordon St. at Vet College
+Gordon St. at Macdonald Stewart Art Centre
+Gordon St. at Dormie Lane
+Gordon St. at Water St.
+Wellington St. E. at Wellington Plaza 
+Wyndham St. S. at Fountain St.
+Guelph Central Station
+Guelph Central Station
+Wellington St. E. at KFC
+Gordon St. at Water St.
+Gordon St. at Forbes Ave.
+Gordon St. at Dean Ave.
+Gordon St. at College Ave.
+Gordon St. at Stone Rd. W.
+Gordon St. at Harvard Rd. 
+Gordon St. at Kortright Rd. 
+Gordon St. at Harts Lane
+1155 Gordon St. 
+Gordon St. at Edinburgh Rd. S.
+Gordon St. at Arkell Rd. 
+1417 Gordon St.
+Gordon St. at Lowes Rd. 
+Gordon St. at Clairfields Dr.
+25 Clairfields Dr. W.
+Opposite 116 Clairfields Dr. W.
+Clairfields Dr. W. at Boulder Cres.
+Laird Rd. at Clair Rd. W.
+Southgate Dr. at Laird Rd. 
+125 Southgate Dr.
+180 Southgate Dr.
+310 Southgate Dr.
+450 Southgate Dr.
+525 Southgate Dr.
+595 Southgate Dr.
+679 Southgate Dr.
+Southgate Dr. at Corporate Rd.
+Southgate Dr. at Admiral Pl.
+829 Southgate Dr.
+300 Clair Rd. (Water Tower)
+Bishop Macdonell High School
+Gosling Gardens at Clair Rd. W.
+Gosling Garden Park
+Gosling Gardens at Clairfields Dr. W. 
+Gordon St. at Westminster Woods
+Gordon St. at Lowes Rd. 
+Gordon St. at Continuing Education
+Gordon St. at Arkell Rd. 
+Gordon St. at Valley Rd.
+Gordon St. at Landsdown Dr.
+Gordon St. at Harts Lane
+1030 Gordon St.
+Gordon St. at Kortright Rd. 
+Gordon St. at Hands Dr.
+Gordon St. at Monticello Cres. 
+Gordon St. at South Ring Rd.
+Gordon St. at Vet College
+Gordon St. at Macdonald Stewart Art Centre
+Gordon St. at Dormie Lane
+Gordon St. at Water St.
+Wellington St. E. at Wellington Plaza 
+Wyndham St. S. at Fountain St.
+Guelph Central Station
+Guelph Central Station
+Wellington St. E. at KFC
+Gordon St. at Water St.
+Gordon St. at Forbes Ave.
+Gordon St. at Dean Ave.
+Gordon St. at College Ave.
+Gordon St. at Stone Rd. W.
+Gordon St. at Harvard Rd. 
+Gordon St. at Kortright Rd. 
+Gordon St. at Harts Lane
+1155 Gordon St. 
+Gordon St. at Edinburgh Rd. S.
+Gordon St. at Arkell Rd. 
+1417 Gordon St.
+Gordon St. at Lowes Rd. 
+Gordon St. at Clairfields Dr.
+25 Clairfields Dr. W.
+Opposite 116 Clairfields Dr. W.
+Clairfields Dr. W. at Boulder Cres.
+Laird Rd. at Clair Rd. W.
+Southgate Dr. at Laird Rd. 
+125 Southgate Dr.
+180 Southgate Dr.
+310 Southgate Dr.
+450 Southgate Dr.
+525 Southgate Dr.
+595 Southgate Dr.
+679 Southgate Dr.
+Southgate Dr. at Corporate Rd.
+Southgate Dr. at Admiral Pl.
+829 Southgate Dr.
+300 Clair Rd. (Water Tower)
+Bishop Macdonell High School
+Gosling Gardens at Clair Rd. W.
+Gosling Garden Park
+Gosling Gardens at Clairfields Dr. W. 
+Gordon St. at Westminster Woods
+Gordon St. at Lowes Rd. 
+Gordon St. at Continuing Education
+Gordon St. at Arkell Rd. 
+Gordon St. at Valley Rd.
+Gordon St. at Landsdown Dr.
+Gordon St. at Harts Lane
+1030 Gordon St.
+Gordon St. at Kortright Rd. 
+Gordon St. at Hands Dr.
+Gordon St. at Monticello Cres. 
+Gordon St. at South Ring Rd.
+Gordon St. at Vet College
+Gordon St. at Macdonald Stewart Art Centre
+Gordon St. at Dormie Lane
+Gordon St. at Water St.
+Wellington St. E. at Wellington Plaza 
+Wyndham St. S. at Fountain St.
+Guelph Central Station
+University Centre
+Stone Rd. W. at Gordon St. 
+Stone Rd. W. at Fire Hall
+Stone Rd. W. at Target
+Stone Rd. W. Edinburgh Rd. S.
+Stone Rd. W. at Stone Rd Mall
+Stone Rd. W. at Scottsdale Dr.
+Stone Rd. W at Woodland Glen Dr.
+College Ave. W. at Flanders Rd.
+College Ave. W. at Conroy Cres.
+College Ave. W. at Argyle Dr.
+506 College Ave. W.
+College Ave. W. east of Hanlon
+129 Janefield Ave.
+Janefield Ave. at Scottsdale Dr.
+Stone Road Mall
+Scottsdale Dr. at Wilsonview Ave.
+Wilsonview Ave.
+Edinburgh Rd at Chancellors Way
+Stone Rd. opposite Target
+95 Stone Rd. W.
+University Centre
+University Centre
+Stone Rd. W. at Gordon St. 
+Stone Rd. W. at Fire Hall
+Stone Rd. W. at Target
+Stone Rd. W. Edinburgh Rd. S.
+Stone Rd. W. at Stone Rd Mall
+Stone Rd. W. at Scottsdale Dr.
+Stone Rd. W at Woodland Glen Dr.
+College Ave. W. at Flanders Rd.
+College Ave. W. at Conroy Cres.
+College Ave. W. at Argyle Dr.
+506 College Ave. W.
+College Ave. W. east of Hanlon
+129 Janefield Ave.
+Janefield Ave. at Scottsdale Dr.
+Stone Road Mall
+Scottsdale Dr. at Wilsonview Ave.
+Wilsonview Ave.
+Edinburgh Rd at Chancellors Way
+Stone Rd. opposite Target
+95 Stone Rd. W.
+University Centre
+University Centre
+Stone Rd. W. at Gordon St. 
+Stone Rd. W. at Fire Hall
+Stone Rd. W. at Target
+Stone Rd. W. Edinburgh Rd. S.
+Stone Rd. W. at Stone Rd Mall
+Stone Rd. W. at Scottsdale Dr.
+Stone Rd. W at Woodland Glen Dr.
+College Ave. W. at Flanders Rd.
+College Ave. W. at Conroy Cres.
+College Ave. W. at Argyle Dr.
+506 College Ave. W.
+College Ave. W. east of Hanlon
+129 Janefield Ave.
+Janefield Ave. at Scottsdale Dr.
+Stone Road Mall
+Scottsdale Dr. at Wilsonview Ave.
+Wilsonview Ave.
+Edinburgh Rd at Chancellors Way
+Stone Rd. opposite Target
+95 Stone Rd. W.
+University Centre
+Guelph Central Station
+Elizabeth St. at Duke St.
+65 Elizabeth St.
+Elizabeth St. at Morris St.
+Elizabeth St. at Stevenson St.
+Elizabeth St. at Victoria Rd. N.
+Grange Rd. at Victoria Rd. N.
+Grange Rd. at Schroder Cres.
+Grange Rd. at Breesgarden Lane
+Grange Rd. at Ralston Dr.
+Grange Rd. at Ken Danby School
+Watson Pkwy. N. South of Grange Rd.
+Watson Pkwy. N. at Fleming Rd.
+Watson Pkwy. N. at Library
+Starwood Dr. at Fleming Rd.
+Starwood Dr. at Ralston Dr. 
+Grange Rd. at Silurian Dr. 
+Grange Rd. at Auden Rd.
+Grange Rd. at St. James Park
+Victoria Rd. N. at Grange Rd.
+Elizabeth St. at Victoria Rd. N.
+Elizabeth St. at Stevenson St. 
+Elizabeth St. at Morris St. 
+Elizabeth St. at Huron St.
+Elizabeth St. at Red Chevron Club
+Guelph Central Station
+Guelph Central Station
+Elizabeth St. at Duke St.
+65 Elizabeth St.
+Elizabeth St. at Morris St.
+Elizabeth St. at Stevenson St.
+Elizabeth St. at Victoria Rd. N.
+Grange Rd. at Victoria Rd. N.
+Grange Rd. at Schroder Cres.
+Grange Rd. at Breesgarden Lane
+Grange Rd. at Ralston Dr.
+Grange Rd. at Ken Danby School
+Watson Pkwy. N. South of Grange Rd.
+Watson Pkwy. N. at Fleming Rd.
+Watson Pkwy. N. at Library
+Starwood Dr. at Fleming Rd.
+Starwood Dr. at Ralston Dr. 
+Grange Rd. at Silurian Dr. 
+Grange Rd. at Auden Rd.
+Grange Rd. at St. James Park
+Victoria Rd. N. at Grange Rd.
+Elizabeth St. at Victoria Rd. N.
+Elizabeth St. at Stevenson St. 
+Elizabeth St. at Morris St. 
+Elizabeth St. at Huron St.
+Elizabeth St. at Red Chevron Club
+Guelph Central Station
+Guelph Central Station
+Elizabeth St. at Duke St.
+65 Elizabeth St.
+Elizabeth St. at Morris St.
+Elizabeth St. at Stevenson St.
+Elizabeth St. at Victoria Rd. N.
+Grange Rd. at Victoria Rd. N.
+Grange Rd. at Schroder Cres.
+Grange Rd. at Breesgarden Lane
+Grange Rd. at Ralston Dr.
+Grange Rd. at Ken Danby School
+Watson Pkwy. N. South of Grange Rd.
+Watson Pkwy. N. at Fleming Rd.
+Watson Pkwy. N. at Library
+Starwood Dr. at Fleming Rd.
+Starwood Dr. at Ralston Dr. 
+Grange Rd. at Silurian Dr. 
+Grange Rd. at Auden Rd.
+Grange Rd. at St. James Park
+Victoria Rd. N. at Grange Rd.
+Elizabeth St. at Victoria Rd. N.
+Elizabeth St. at Stevenson St. 
+Elizabeth St. at Morris St. 
+Elizabeth St. at Huron St.
+Elizabeth St. at Red Chevron Club
+Guelph Central Station
+Guelph Central Station
+Wyndham St. N. at Bank of Nova Scotia
+Eramosa Rd. at Bridge
+Eramosa Rd. at St. Catharines St.
+Metcalfe St. at Eramosa Rd.
+Metcalfe St. at Lemon St.
+Metcalfe St. at Palmer St.
+Metcalfe St. at Grange St.
+Grange St. at Clara St.
+Grange St. at Louisa St
+Grange St. at Stevenson St.
+Cassino Ave. at William St. 
+Cassino Ave. at Palermo Cres.
+Cassino Ave. at Hadati Rd.
+Hadati Rd. at Yeats Crt.
+Hadati Rd. at Victoria Rd. N.
+Eastview Rd. at Glenburnie Dr.
+Eastview Rd. at Mountford Dr.
+Starwood Dr. at Watt St.
+Watt St. at Auden Rd.
+Auden Rd. at Eastview Rd.
+Eastview Rd. at Mountford Dr.
+Eastview Rd. at VictoriaRd. 
+Victoria Rd. N. at Greenview St. 
+Eramosa Rd. at Orchard Cres.
+Eramosa Rd. at Meyer Dr.
+Eramosa Rd. at Stevenson St.
+Eramosa Rd. at Metcalfe St.
+Eramosa Rd. at Arthur St.
+Wyndham St. N. at IF Shoe Store
+Guelph Central Station
+Guelph Central Station
+Wyndham St. N. at Bank of Nova Scotia
+Eramosa Rd. at Bridge
+Eramosa Rd. at St. Catharines St.
+Metcalfe St. at Eramosa Rd.
+Metcalfe St. at Lemon St.
+Metcalfe St. at Palmer St.
+Metcalfe St. at Grange St.
+Grange St. at Clara St.
+Grange St. at Louisa St
+Grange St. at Stevenson St.
+Cassino Ave. at William St. 
+Cassino Ave. at Palermo Cres.
+Cassino Ave. at Hadati Rd.
+Hadati Rd. at Yeats Crt.
+Hadati Rd. at Victoria Rd. N.
+Eastview Rd. at Glenburnie Dr.
+Eastview Rd. at Mountford Dr.
+Starwood Dr. at Watt St.
+Watt St. at Auden Rd.
+Auden Rd. at Eastview Rd.
+Eastview Rd. at Mountford Dr.
+Eastview Rd. at VictoriaRd. 
+Victoria Rd. N. at Greenview St. 
+Eramosa Rd. at Orchard Cres.
+Eramosa Rd. at Meyer Dr.
+Eramosa Rd. at Stevenson St.
+Eramosa Rd. at Metcalfe St.
+Eramosa Rd. at Arthur St.
+Wyndham St. N. at IF Shoe Store
+Guelph Central Station
+Guelph Central Station
+Wyndham St. N. at Bank of Nova Scotia
+Eramosa Rd. at Bridge
+Eramosa Rd. at St. Catharines St.
+Metcalfe St. at Eramosa Rd.
+Metcalfe St. at Lemon St.
+Metcalfe St. at Palmer St.
+Metcalfe St. at Grange St.
+Grange St. at Clara St.
+Grange St. at Louisa St
+Grange St. at Stevenson St.
+Cassino Ave. at William St. 
+Cassino Ave. at Palermo Cres.
+Cassino Ave. at Hadati Rd.
+Hadati Rd. at Yeats Crt.
+Hadati Rd. at Victoria Rd. N.
+Eastview Rd. at Glenburnie Dr.
+Eastview Rd. at Mountford Dr.
+Starwood Dr. at Watt St.
+Watt St. at Auden Rd.
+Auden Rd. at Eastview Rd.
+Eastview Rd. at Mountford Dr.
+Eastview Rd. at VictoriaRd. 
+Victoria Rd. N. at Greenview St. 
+Eramosa Rd. at Orchard Cres.
+Eramosa Rd. at Meyer Dr.
+Eramosa Rd. at Stevenson St.
+Eramosa Rd. at Metcalfe St.
+Eramosa Rd. at Arthur St.
+Wyndham St. N. at IF Shoe Store
+Guelph Central Station
+Guelph Central Station
+Wyndham St. N. at PharmaSave
+Eramosa Rd. at Bridge
+Delhi St. at Eramosa Rd.
+Delhi St. at Guelph General Hospital
+Delhi St. at Homewood Health Centre
+Delhi St. at Emma St. 
+Emma St. at Metcalfe St. 
+Emma St. at Stevenson St. 
+Speedvale Ave. E. at Stevenson St. 
+Speedvale Ave. E. at Renfield St.
+Speedvale Ave. E. at Acorn Pl.
+Victoria Rd. N. at Speedvale Ave. E.
+Victoria Rd. N. at Brant Ave.
+Woodlawn Rd. E. at Victoria Rd. N.
+Windsor St. at Kingsley Crt.
+Waverly Dr. at Stevenson St.
+Metcalfe St. at Waverley Dr. 
+Metcalfe St. at Shaftesbury Ave.
+Metcalfe St. at Speedvale  Ave.
+Speedvale Ave. at Clive Ave.
+Delhi St. at Phillip Ave.
+Delhi St. at Emma St. 
+Delhi St. at Homewood Health Centre
+Delhi St. at Spring St.
+Delhi St. at Eramosa Rd.
+Eramosa Rd. at Arthur St. 
+Wyndham St. N. at IF Shoe Store
+Guelph Central Station
+Guelph Central Station
+Wyndham St. N. at PharmaSave
+Eramosa Rd. at Bridge
+Delhi St. at Eramosa Rd.
+Delhi St. at Guelph General Hospital
+Delhi St. at Homewood Health Centre
+Delhi St. at Emma St. 
+Emma St. at Metcalfe St. 
+Emma St. at Stevenson St. 
+Speedvale Ave. E. at Stevenson St. 
+Speedvale Ave. E. at Renfield St.
+Speedvale Ave. E. at Acorn Pl.
+Victoria Rd. N. at Speedvale Ave. E.
+Victoria Rd. N. at Brant Ave.
+Woodlawn Rd. E. at Victoria Rd. N.
+Windsor St. at Kingsley Crt.
+Waverly Dr. at Stevenson St.
+Metcalfe St. at Waverley Dr. 
+Metcalfe St. at Shaftesbury Ave.
+Metcalfe St. at Speedvale  Ave.
+Speedvale Ave. at Clive Ave.
+Delhi St. at Phillip Ave.
+Delhi St. at Emma St. 
+Delhi St. at Homewood Health Centre
+Delhi St. at Spring St.
+Delhi St. at Eramosa Rd.
+Eramosa Rd. at Arthur St. 
+Wyndham St. N. at IF Shoe Store
+Guelph Central Station
+Guelph Central Station
+Wyndham St. N. at PharmaSave
+Eramosa Rd. at Bridge
+Delhi St. at Eramosa Rd.
+Delhi St. at Guelph General Hospital
+Delhi St. at Homewood Health Centre
+Delhi St. at Emma St. 
+Emma St. at Metcalfe St. 
+Emma St. at Stevenson St. 
+Speedvale Ave. E. at Stevenson St. 
+Speedvale Ave. E. at Renfield St.
+Speedvale Ave. E. at Acorn Pl.
+Victoria Rd. N. at Speedvale Ave. E.
+Victoria Rd. N. at Brant Ave.
+Woodlawn Rd. E. at Victoria Rd. N.
+Windsor St. at Kingsley Crt.
+Waverly Dr. at Stevenson St.
+Metcalfe St. at Waverley Dr. 
+Metcalfe St. at Shaftesbury Ave.
+Metcalfe St. at Speedvale  Ave.
+Speedvale Ave. at Clive Ave.
+Delhi St. at Phillip Ave.
+Delhi St. at Emma St. 
+Delhi St. at Homewood Health Centre
+Delhi St. at Spring St.
+Delhi St. at Eramosa Rd.
+Eramosa Rd. at Arthur St. 
+Wyndham St. N. at IF Shoe Store
+Guelph Central Station
+Guelph Central Station
+Norfolk St. at Albion
+Suffolk St. W. at Norfolk St. 
+Suffolk St. W. at Dublin St.
+Suffolk St. W. at Glasgow St.
+Suffolk St. W. at Yorkshire St. N.
+Suffolk St. W. at Edinburgh Rd. N. 
+Edinburgh Rd. N. at Mercer St.
+Willow Rd. at Dawson Rd.
+Dawson Rd. at Shelldale Cres.
+Dawson Rd. at Dawson Road Medical Clinic
+229 Speedvale Ave. W.
+Speedvale Ave. W. at Silvercreek Pkwy. N.
+361 Speedvale Ave. W. 
+Marksham Rd. south of Speedvale Ave. W.
+177 Marksam Rd.
+145 Marksam Rd. 
+76 Marksam Rd. 
+Willow Rd. at Silvercreek Pkwy.
+158 Willow Rd.
+66 Willow Rd. 
+26 Willow Rd. 
+200 Edinburgh Rd. N.
+Paisley St. at Yorkshire St. N.
+Paisley St. at Glasgow St. 
+Paisley St. at Norfolk St. 
+Wyndham St. N. at IF Shoe Store
+Guelph Central Station
+1125.0
+Guelph Central Station
+Norfolk St. at Albion
+Suffolk St. W. at Norfolk St. 
+Suffolk St. W. at Dublin St.
+Suffolk St. W. at Glasgow St.
+Suffolk St. W. at Yorkshire St. N.
+Suffolk St. W. at Edinburgh Rd. N. 
+Edinburgh Rd. N. at Mercer St.
+Willow Rd. at Dawson Rd.
+Dawson Rd. at Shelldale Cres.
+Dawson Rd. at Dawson Road Medical Clinic
+229 Speedvale Ave. W.
+Speedvale Ave. W. at Silvercreek Pkwy. N.
+361 Speedvale Ave. W. 
+Marksham Rd. south of Speedvale Ave. W.
+177 Marksam Rd.
+145 Marksam Rd. 
+76 Marksam Rd. 
+Willow Rd. at Silvercreek Pkwy.
+158 Willow Rd.
+66 Willow Rd. 
+26 Willow Rd. 
+200 Edinburgh Rd. N.
+Paisley St. at Yorkshire St. N.
+Paisley St. at Glasgow St. 
+Paisley St. at Norfolk St. 
+Wyndham St. N. at IF Shoe Store
+Guelph Central Station
+1125.0
+Guelph Central Station
+Norfolk St. at Albion
+Suffolk St. W. at Norfolk St. 
+Suffolk St. W. at Dublin St.
+Suffolk St. W. at Glasgow St.
+Suffolk St. W. at Yorkshire St. N.
+Suffolk St. W. at Edinburgh Rd. N. 
+Edinburgh Rd. N. at Mercer St.
+Willow Rd. at Dawson Rd.
+Dawson Rd. at Shelldale Cres.
+Dawson Rd. at Dawson Road Medical Clinic
+229 Speedvale Ave. W.
+Speedvale Ave. W. at Silvercreek Pkwy. N.
+361 Speedvale Ave. W. 
+Marksham Rd. south of Speedvale Ave. W.
+177 Marksam Rd.
+145 Marksam Rd. 
+76 Marksam Rd. 
+Willow Rd. at Silvercreek Pkwy.
+158 Willow Rd.
+66 Willow Rd. 
+26 Willow Rd. 
+200 Edinburgh Rd. N.
+Paisley St. at Yorkshire St. N.
+Paisley St. at Glasgow St. 
+Paisley St. at Norfolk St. 
+Wyndham St. N. at IF Shoe Store
+Guelph Central Station
+1125.0
+Guelph Central Station
+Quebec St. at B.M.O.
+Paisley St. at Library
+Paisley St. at Glasgow St.
+Paisley St. at G.C.V.I.
+Paisley St. at Harrison Ave.
+Paisley St. at Edinburgh Rd. N.
+Paisley Rd. at Alma St.
+Paisley Rd. at Western Ave.
+Paisley Rd. at Heath Rd.
+Westwood Rd. at Silvercreek Pkwy. N.
+85 Westwood Rd. 
+225 Westwood Rd. 
+Willow Rd. at Westwood Rd.
+577 Willow Rd. at Church
+Imperial Rd. S. at Ferman Dr. 
+West End Community Centre
+926 Paisley Rd. 
+Paisley Rd. at Candlewood Dr.
+Paisley Rd. at West Hill Estates
+Paisley Rd. at Heath Rd.
+Paisley Rd. at Goldie Ave.
+Paisley Rd. at Alma St.
+Paisley Rd. at Edinburgh Rd. N.
+Paisley St. at Yorkshire St. N. 
+Paisley St. at Glasgow St. 
+Paisley St. at Norfolk St. 
+Wyndham St. N. at IF Shoe store
+Guelph Central Station
+Guelph Central Station
+Quebec St. at B.M.O.
+Paisley St. at Library
+Paisley St. at Glasgow St.
+Paisley St. at G.C.V.I.
+Paisley St. at Harrison Ave.
+Paisley St. at Edinburgh Rd. N.
+Paisley Rd. at Alma St.
+Paisley Rd. at Western Ave.
+Paisley Rd. at Heath Rd.
+Westwood Rd. at Silvercreek Pkwy. N.
+85 Westwood Rd. 
+225 Westwood Rd. 
+Willow Rd. at Westwood Rd.
+577 Willow Rd. at Church
+Imperial Rd. S. at Ferman Dr. 
+West End Community Centre
+926 Paisley Rd. 
+Paisley Rd. at Candlewood Dr.
+Paisley Rd. at West Hill Estates
+Paisley Rd. at Heath Rd.
+Paisley Rd. at Goldie Ave.
+Paisley Rd. at Alma St.
+Paisley Rd. at Edinburgh Rd. N.
+Paisley St. at Yorkshire St. N. 
+Paisley St. at Glasgow St. 
+Paisley St. at Norfolk St. 
+Wyndham St. N. at IF Shoe store
+Guelph Central Station
+Guelph Central Station
+Quebec St. at B.M.O.
+Paisley St. at Library
+Paisley St. at Glasgow St.
+Paisley St. at G.C.V.I.
+Paisley St. at Harrison Ave.
+Paisley St. at Edinburgh Rd. N.
+Paisley Rd. at Alma St.
+Paisley Rd. at Western Ave.
+Paisley Rd. at Heath Rd.
+Westwood Rd. at Silvercreek Pkwy. N.
+85 Westwood Rd. 
+225 Westwood Rd. 
+Willow Rd. at Westwood Rd.
+577 Willow Rd. at Church
+Imperial Rd. S. at Ferman Dr. 
+West End Community Centre
+926 Paisley Rd. 
+Paisley Rd. at Candlewood Dr.
+Paisley Rd. at West Hill Estates
+Paisley Rd. at Heath Rd.
+Paisley Rd. at Goldie Ave.
+Paisley Rd. at Alma St.
+Paisley Rd. at Edinburgh Rd. N.
+Paisley St. at Yorkshire St. N. 
+Paisley St. at Glasgow St. 
+Paisley St. at Norfolk St. 
+Wyndham St. N. at IF Shoe store
+Guelph Central Station
+Guelph Central Station
+3 Waterloo Ave. 
+Waterloo Ave. at Glasgow St. 
+Waterloo Ave. at Yorkshire St. S. 
+225 Waterloo Ave. 
+Waterloo Ave. at Beachwood Ave. 
+387 Waterloo Ave.
+659 Wellington St. N. 
+Imperial Rd. S. at Wellington St. N.
+Imperial Rd. S. at Stephanie Dr. 
+Imperial Rd. S. at Deerpath Dr. 
+Imperial Rd. S.  at Paisley St. 
+Paisley Rd. at Zehrs
+Stephanie Dr. at Hollyberry Pl
+Stephanie Dr. at Imperial Rd. S.
+Imperial Rd. S. at West Acres Dr.
+Imperial Rd. S. at Tim Hortons
+Wellington St. W. at Wastewater Treatment Plant
+364 Waterloo Ave.
+Waterloo Ave. at St. Arnaud St.
+180 Waterloo Ave. 
+Waterloo Ave. at Glasgow St. 
+Waterloo Ave. at Norfolk  St. 
+Guelph City Hall
+Guelph Central Station
+Guelph Central Station
+3 Waterloo Ave. 
+Waterloo Ave. at Glasgow St. 
+Waterloo Ave. at Yorkshire St. S. 
+225 Waterloo Ave. 
+Waterloo Ave. at Beachwood Ave. 
+387 Waterloo Ave.
+659 Wellington St. N. 
+Imperial Rd. S. at Wellington St. N.
+Imperial Rd. S. at Stephanie Dr. 
+Imperial Rd. S. at Deerpath Dr. 
+Imperial Rd. S.  at Paisley St. 
+Paisley Rd. at Zehrs
+Stephanie Dr. at Hollyberry Pl
+Stephanie Dr. at Imperial Rd. S.
+Imperial Rd. S. at West Acres Dr.
+Imperial Rd. S. at Tim Hortons
+Wellington St. W. at Wastewater Treatment Plant
+364 Waterloo Ave.
+Waterloo Ave. at St. Arnaud St.
+180 Waterloo Ave. 
+Waterloo Ave. at Glasgow St. 
+Waterloo Ave. at Norfolk  St. 
+Guelph City Hall
+Guelph Central Station
+Guelph Central Station
+3 Waterloo Ave. 
+Waterloo Ave. at Glasgow St. 
+Waterloo Ave. at Yorkshire St. S. 
+225 Waterloo Ave. 
+Waterloo Ave. at Beachwood Ave. 
+387 Waterloo Ave.
+659 Wellington St. N. 
+Imperial Rd. S. at Wellington St. N.
+Imperial Rd. S. at Stephanie Dr. 
+Imperial Rd. S. at Deerpath Dr. 
+Imperial Rd. S.  at Paisley St. 
+Paisley Rd. at Zehrs
+Stephanie Dr. at Hollyberry Pl
+Stephanie Dr. at Imperial Rd. S.
+Imperial Rd. S. at West Acres Dr.
+Imperial Rd. S. at Tim Hortons
+Wellington St. W. at Wastewater Treatment Plant
+364 Waterloo Ave.
+Waterloo Ave. at St. Arnaud St.
+180 Waterloo Ave. 
+Waterloo Ave. at Glasgow St. 
+Waterloo Ave. at Norfolk  St. 
+Guelph City Hall
+Guelph Central Station
+Guelph Central Station
+Wyndham St. S. at Farquhar St.
+Wellington St. E. at KFC
+Gordon St. at Water St.
+Water St. at McCrae Blvd.
+Water St. at Maple St.
+Maple St. at Forest St.
+Forest St. at Park
+Edinburgh Rd. S. at Maplewood Dr.
+College Ave. W. at Edinburgh Rd. S.
+College Ave. W. at Centennial 
+129 Janefield Ave.  
+Janefield Ave. at Scottsdale Dr.
+Stone Road Mall
+Scottsdale Dr. at Wilsonview Ave. 
+220 Scottsdale Dr.
+Scottsdale Dr. at College Ave. W.
+College Ave. W. at Meadowcroft
+Edinburgh Rd. S. at Floral Dr.
+Edinburgh Rd. S. at Lockyer Rd.
+Edinburgh Rd. S. at Municipal St. 
+Edinburgh Rd. S. at Honey Cres.
+Bristol St. at McGee St. 
+Yorkshire St. S. at Waterloo Ave.
+Waterloo Ave. at Glasgow St. 
+Waterloo Ave. at Norfolk St.
+Guelph City Hall
+Guelph Central Station
+Guelph Central Station
+Wyndham St. S. at Farquhar St.
+Wellington St. E. at KFC
+Gordon St. at Water St.
+Water St. at McCrae Blvd.
+Water St. at Maple St.
+Maple St. at Forest St.
+Forest St. at Park
+Edinburgh Rd. S. at Maplewood Dr.
+College Ave. W. at Edinburgh Rd. S.
+College Ave. W. at Centennial 
+129 Janefield Ave.  
+Janefield Ave. at Scottsdale Dr.
+Stone Road Mall
+Scottsdale Dr. at Wilsonview Ave. 
+220 Scottsdale Dr.
+Scottsdale Dr. at College Ave. W.
+College Ave. W. at Meadowcroft
+Edinburgh Rd. S. at Floral Dr.
+Edinburgh Rd. S. at Lockyer Rd.
+Edinburgh Rd. S. at Municipal St. 
+Edinburgh Rd. S. at Honey Cres.
+Bristol St. at McGee St. 
+Yorkshire St. S. at Waterloo Ave.
+Waterloo Ave. at Glasgow St. 
+Waterloo Ave. at Norfolk St.
+Guelph City Hall
+Guelph Central Station
+Guelph Central Station
+Wyndham St. S. at Farquhar St.
+Wellington St. E. at KFC
+Gordon St. at Water St.
+Water St. at McCrae Blvd.
+Water St. at Maple St.
+Maple St. at Forest St.
+Forest St. at Park
+Edinburgh Rd. S. at Maplewood Dr.
+College Ave. W. at Edinburgh Rd. S.
+College Ave. W. at Centennial 
+129 Janefield Ave.  
+Janefield Ave. at Scottsdale Dr.
+Stone Road Mall
+Scottsdale Dr. at Wilsonview Ave. 
+220 Scottsdale Dr.
+Scottsdale Dr. at College Ave. W.
+College Ave. W. at Meadowcroft
+Edinburgh Rd. S. at Floral Dr.
+Edinburgh Rd. S. at Lockyer Rd.
+Edinburgh Rd. S. at Municipal St. 
+Edinburgh Rd. S. at Honey Cres.
+Bristol St. at McGee St. 
+Yorkshire St. S. at Waterloo Ave.
+Waterloo Ave. at Glasgow St. 
+Waterloo Ave. at Norfolk St.
+Guelph City Hall
+Guelph Central Station
+University Centre
+Gordon St. at Harvard Rd.
+Gordon St. at Kortright Rd. 
+Kortright Rd. W. at Yewholme Dr.
+Kortright Rd. W. at Rickson Ave.
+Kortright Rd. W. at Edinburgh Rd. S.
+Kortright Rd. W. at Hanlon Creek Park
+555 Kortright Rd. W. 
+Kortright Rd. W. at Hanlon Rd.
+Downey Rd. at Woodland Glen Dr.
+Niska Rd. opposite Tanager Dr.
+Ptarmigan Dr. at Niska Rd.
+Ptarmigan Dr. at Pheasant Run Dr.
+Ptarmigan Dr. at Downey Rd.
+Downey Rd. at Hazelwood Dr.
+Downey Rd. at Niska Rd. 
+Kortright Rd. W. at Hanlon Rd.
+Kortright Rd. W. at Plaza
+Kortright Rd. W. opposite Hanlon Creek Park
+Kortright Rd. W. at Edinburgh Rd. S.
+Kortright Rd. W. at Rickson Ave.
+Kortright Rd. W. opposite Yewholme Dr.
+Gordon St. at Kortright Rd. 
+Gordon St. at Hands Dr.
+Gordon St. at Monticello Cres.
+University Centre
+University Centre
+Gordon St. at Harvard Rd.
+Gordon St. at Kortright Rd. 
+Kortright Rd. W. at Yewholme Dr.
+Kortright Rd. W. at Rickson Ave.
+Kortright Rd. W. at Edinburgh Rd. S.
+Kortright Rd. W. at Hanlon Creek Park
+555 Kortright Rd. W. 
+Kortright Rd. W. at Hanlon Rd.
+Downey Rd. at Woodland Glen Dr.
+Niska Rd. opposite Tanager Dr.
+Ptarmigan Dr. at Niska Rd.
+Ptarmigan Dr. at Pheasant Run Dr.
+Ptarmigan Dr. at Downey Rd.
+Downey Rd. at Hazelwood Dr.
+Downey Rd. at Niska Rd. 
+Kortright Rd. W. at Hanlon Rd.
+Kortright Rd. W. at Plaza
+Kortright Rd. W. opposite Hanlon Creek Park
+Kortright Rd. W. at Edinburgh Rd. S.
+Kortright Rd. W. at Rickson Ave.
+Kortright Rd. W. opposite Yewholme Dr.
+Gordon St. at Kortright Rd. 
+Gordon St. at Hands Dr.
+Gordon St. at Monticello Cres.
+University Centre
+University Centre
+Gordon St. at Harvard Rd.
+Gordon St. at Kortright Rd. 
+Kortright Rd. W. at Yewholme Dr.
+Kortright Rd. W. at Rickson Ave.
+Kortright Rd. W. at Edinburgh Rd. S.
+Kortright Rd. W. at Hanlon Creek Park
+555 Kortright Rd. W. 
+Kortright Rd. W. at Hanlon Rd.
+Downey Rd. at Woodland Glen Dr.
+Niska Rd. opposite Tanager Dr.
+Ptarmigan Dr. at Niska Rd.
+Ptarmigan Dr. at Pheasant Run Dr.
+Ptarmigan Dr. at Downey Rd.
+Downey Rd. at Hazelwood Dr.
+Downey Rd. at Niska Rd. 
+Kortright Rd. W. at Hanlon Rd.
+Kortright Rd. W. at Plaza
+Kortright Rd. W. opposite Hanlon Creek Park
+Kortright Rd. W. at Edinburgh Rd. S.
+Kortright Rd. W. at Rickson Ave.
+Kortright Rd. W. opposite Yewholme Dr.
+Gordon St. at Kortright Rd. 
+Gordon St. at Hands Dr.
+Gordon St. at Monticello Cres.
+University Centre
+University Centre
+Gordon St. at Stone Rd. W. 
+Gordon St. at Harvard Rd.
+Harvard Rd. at Shakespeare Arms
+Harvard Rd. at Princeton Pl.
+Harvard Rd. at Youngman Dr. 
+Edinburgh Rd. at Laurelwood Crt.
+Stone Rd. W. at Stone Road Mall
+Scottsdale Dr. at Stone Rd. W.
+Scottsdale Dr. at Ironwood Rd. 
+Ironwood Rd. at Steffler Park
+Ironwood Rd. at Cole Rd.
+Ironwood Rd. at Woodborough Rd.
+Ironwood Rd. at Hilldale Cres.
+Ironwood Rd. at Brookhaven Crt.
+Ironwood Rd. at Kortright Rd. W.
+Scottsdale Dr. at Steffler Dr
+711 Scottsdale Dr.
+692 Scottsdale Dr.
+Stone Rd. W. at Scottsdale Dr.
+372 Stone Rd. W.
+Stone Rd. W. at Edinburgh Rd. S. 
+Youngman Dr. at Harvard Rd.
+Harvard Rd. at Princeton Pl.
+Harvard Rd. at Rickson Ave.
+35 Harvard Ave. at Plaza
+Gordon St. at Monticello Cres.
+University Centre
+University Centre
+Gordon St. at Stone Rd. W. 
+Gordon St. at Harvard Rd.
+Harvard Rd. at Shakespeare Arms
+Harvard Rd. at Princeton Pl.
+Harvard Rd. at Youngman Dr. 
+Edinburgh Rd. at Laurelwood Crt.
+Stone Rd. W. at Stone Road Mall
+Scottsdale Dr. at Stone Rd. W.
+Scottsdale Dr. at Ironwood Rd. 
+Ironwood Rd. at Steffler Park
+Ironwood Rd. at Cole Rd.
+Ironwood Rd. at Woodborough Rd.
+Ironwood Rd. at Hilldale Cres.
+Ironwood Rd. at Brookhaven Crt.
+Ironwood Rd. at Kortright Rd. W.
+Scottsdale Dr. at Steffler Dr
+711 Scottsdale Dr.
+692 Scottsdale Dr.
+Stone Rd. W. at Scottsdale Dr.
+372 Stone Rd. W.
+Stone Rd. W. at Edinburgh Rd. S. 
+Youngman Dr. at Harvard Rd.
+Harvard Rd. at Princeton Pl.
+Harvard Rd. at Rickson Ave.
+35 Harvard Ave. at Plaza
+Gordon St. at Monticello Cres.
+University Centre
+University Centre
+Gordon St. at Stone Rd. W. 
+Gordon St. at Harvard Rd.
+Harvard Rd. at Shakespeare Arms
+Harvard Rd. at Princeton Pl.
+Harvard Rd. at Youngman Dr. 
+Edinburgh Rd. at Laurelwood Crt.
+Stone Rd. W. at Stone Road Mall
+Scottsdale Dr. at Stone Rd. W.
+Scottsdale Dr. at Ironwood Rd. 
+Ironwood Rd. at Steffler Park
+Ironwood Rd. at Cole Rd.
+Ironwood Rd. at Woodborough Rd.
+Ironwood Rd. at Hilldale Cres.
+Ironwood Rd. at Brookhaven Crt.
+Ironwood Rd. at Kortright Rd. W.
+Scottsdale Dr. at Steffler Dr
+711 Scottsdale Dr.
+692 Scottsdale Dr.
+Stone Rd. W. at Scottsdale Dr.
+372 Stone Rd. W.
+Stone Rd. W. at Edinburgh Rd. S. 
+Youngman Dr. at Harvard Rd.
+Harvard Rd. at Princeton Pl.
+Harvard Rd. at Rickson Ave.
+35 Harvard Ave. at Plaza
+Gordon St. at Monticello Cres.
+University Centre
+Guelph Central Station
+Gordon St. at Nottingham St.
+Gordon St. at Wellington St.
+Gordon St. at Water St.
+Gordon St. at Forbes Ave.
+Gordon St. at Dean Ave.
+Gordon St. at College Ave.
+University Centre
+Gordon St. at Stone Rd. W.
+Gordon St. at Harvard Rd. 
+Gordon St. at Kortright Rd. 
+Gordon St. at Harts Lane
+1155 Gordon St. 
+Gordon St. at Edinburgh Rd. S.
+Arkell Rd. at Gordon St. 
+Arkell Rd. at Ridgeway Ave.
+Summerfield Dr. at Amsterdam Cres.
+Summerfield Dr. at Cummings Crt.
+Summerfield Dr. at Bright Lane
+Summerfield Dr. at Victoria Rd. S.
+Frederick Dr. at Waterford Dr. 
+Goodwin Dr. at Ray Cres.
+Goodwin Dr. at Orin Reid Park
+Goodwin Dr. at Sinclair St.
+Goodwin Dr. at Darling Cres. 
+Goodwin Dr. at Eugene Dr. 
+Farley Dr. at Porter Dr.
+Pine Ridge Dr. at Periwinkle Way
+Gordon St. at Lowes Rd.
+Gordon St. at Continuing Education
+Gordon St. at Arkell Rd. 
+Gordon St. at Valley Rd.
+Gordon St. at Landsdown Dr.
+Gordon St. at Harts Lane
+1030 Gordon St.
+Gordon St. at Kortright Rd. 
+Gordon St. at Hands Dr.
+Gordon St. at Monticello Cres. 
+University Centre
+Gordon St. at Vet College
+Gordon St. at Macdonald Stewart Art Centre
+Gordon St. at Dormie Lane
+Gordon St. at Water St.
+Gordon St. at Wellington St.
+Gordon St. at Harvey's
+City Hall
+Guelph Central Station
+Guelph Central Station
+Gordon St. at Nottingham St.
+Gordon St. at Wellington St.
+Gordon St. at Water St.
+Gordon St. at Forbes Ave.
+Gordon St. at Dean Ave.
+Gordon St. at College Ave.
+University Centre
+Gordon St. at Stone Rd. W.
+Gordon St. at Harvard Rd. 
+Gordon St. at Kortright Rd. 
+Gordon St. at Harts Lane
+1155 Gordon St. 
+Gordon St. at Edinburgh Rd. S.
+Arkell Rd. at Gordon St. 
+Arkell Rd. at Ridgeway Ave.
+Summerfield Dr. at Amsterdam Cres.
+Summerfield Dr. at Cummings Crt.
+Summerfield Dr. at Bright Lane
+Summerfield Dr. at Victoria Rd. S.
+Frederick Dr. at Waterford Dr. 
+Goodwin Dr. at Ray Cres.
+Goodwin Dr. at Orin Reid Park
+Goodwin Dr. at Sinclair St.
+Goodwin Dr. at Darling Cres. 
+Goodwin Dr. at Eugene Dr. 
+Farley Dr. at Porter Dr.
+Pine Ridge Dr. at Periwinkle Way
+Gordon St. at Lowes Rd.
+Gordon St. at Continuing Education
+Gordon St. at Arkell Rd. 
+Gordon St. at Valley Rd.
+Gordon St. at Landsdown Dr.
+Gordon St. at Harts Lane
+1030 Gordon St.
+Gordon St. at Kortright Rd. 
+Gordon St. at Hands Dr.
+Gordon St. at Monticello Cres. 
+University Centre
+Gordon St. at Vet College
+Gordon St. at Macdonald Stewart Art Centre
+Gordon St. at Dormie Lane
+Gordon St. at Water St.
+Gordon St. at Wellington St.
+Gordon St. at Harvey's
+City Hall
+Guelph Central Station
+Guelph Central Station
+Gordon St. at Nottingham St.
+Gordon St. at Wellington St.
+Gordon St. at Water St.
+Gordon St. at Forbes Ave.
+Gordon St. at Dean Ave.
+Gordon St. at College Ave.
+University Centre
+Gordon St. at Stone Rd. W.
+Gordon St. at Harvard Rd. 
+Gordon St. at Kortright Rd. 
+Gordon St. at Harts Lane
+1155 Gordon St. 
+Gordon St. at Edinburgh Rd. S.
+Arkell Rd. at Gordon St. 
+Arkell Rd. at Ridgeway Ave.
+Summerfield Dr. at Amsterdam Cres.
+Summerfield Dr. at Cummings Crt.
+Summerfield Dr. at Bright Lane
+Summerfield Dr. at Victoria Rd. S.
+Frederick Dr. at Waterford Dr. 
+Goodwin Dr. at Ray Cres.
+Goodwin Dr. at Orin Reid Park
+Goodwin Dr. at Sinclair St.
+Goodwin Dr. at Darling Cres. 
+Goodwin Dr. at Eugene Dr. 
+Farley Dr. at Porter Dr.
+Pine Ridge Dr. at Periwinkle Way
+Gordon St. at Lowes Rd.
+Gordon St. at Continuing Education
+Gordon St. at Arkell Rd. 
+Gordon St. at Valley Rd.
+Gordon St. at Landsdown Dr.
+Gordon St. at Harts Lane
+1030 Gordon St.
+Gordon St. at Kortright Rd. 
+Gordon St. at Hands Dr.
+Gordon St. at Monticello Cres. 
+University Centre
+Gordon St. at Vet College
+Gordon St. at Macdonald Stewart Art Centre
+Gordon St. at Dormie Lane
+Gordon St. at Water St.
+Gordon St. at Wellington St.
+Gordon St. at Harvey's
+City Hall
+Guelph Central Station
+Guelph Central Station
+Neeve St. at Ontario St.
+Ontario St. at Manitoba St.
+168 Ontario St.
+Ontario St. at York Rd.
+York Rd. at Morris St.
+York Rd. at Brockville Ave.
+York Rd. at Audrey Ave.
+535 York Rd. at Tim Hortons
+York Rd. at Beaumont Cres.
+728 York Rd.
+895 York Rd.
+York Rd. at Watson Pkwy. N.
+York Rd. at Graniteworx
+Watson Rd. S. at York Rd.
+Watson Rd. S. at Airpark Pl.
+Watson Rd. S. at Guelph Transit Centre
+Watson Pkwy. S. at Dunlop Dr.
+Watson Pkwy. S. at Cargill 
+Watson Pkwy. S. at Taggert St.
+York Rd. at Watson Pkwy. N.
+York Rd. at Yorkhaven Pl.
+York Rd. at Royal City Jaycees Park
+York Rd. at Beaumont Cres.
+York Rd. at Victoria Rd.
+York Rd. at Brockville Ave.
+York Rd. at Harris St.
+Ontario St. at Huron St. 
+70 Ontario St.
+Ontario St. at Neeve St.
+Guelph Central Station
+Guelph Central Station
+Neeve St. at Ontario St.
+Ontario St. at Manitoba St.
+168 Ontario St.
+Ontario St. at York Rd.
+York Rd. at Morris St.
+York Rd. at Brockville Ave.
+York Rd. at Audrey Ave.
+535 York Rd. at Tim Hortons
+York Rd. at Beaumont Cres.
+728 York Rd.
+895 York Rd.
+York Rd. at Watson Pkwy. N.
+York Rd. at Graniteworx
+Watson Rd. S. at York Rd.
+Watson Rd. S. at Airpark Pl.
+Watson Rd. S. at Guelph Transit Centre
+Watson Pkwy. S. at Dunlop Dr.
+Watson Pkwy. S. at Cargill 
+Watson Pkwy. S. at Taggert St.
+York Rd. at Watson Pkwy. N.
+York Rd. at Yorkhaven Pl.
+York Rd. at Royal City Jaycees Park
+York Rd. at Beaumont Cres.
+York Rd. at Victoria Rd.
+York Rd. at Brockville Ave.
+York Rd. at Harris St.
+Ontario St. at Huron St. 
+70 Ontario St.
+Ontario St. at Neeve St.
+Guelph Central Station
+Guelph Central Station
+Neeve St. at Ontario St.
+Ontario St. at Manitoba St.
+168 Ontario St.
+Ontario St. at York Rd.
+York Rd. at Morris St.
+York Rd. at Brockville Ave.
+York Rd. at Audrey Ave.
+535 York Rd. at Tim Hortons
+York Rd. at Beaumont Cres.
+728 York Rd.
+895 York Rd.
+York Rd. at Watson Pkwy. N.
+York Rd. at Graniteworx
+Watson Rd. S. at York Rd.
+Watson Rd. S. at Airpark Pl.
+Watson Rd. S. at Guelph Transit Centre
+Watson Pkwy. S. at Dunlop Dr.
+Watson Pkwy. S. at Cargill 
+Watson Pkwy. S. at Taggert St.
+York Rd. at Watson Pkwy. N.
+York Rd. at Yorkhaven Pl.
+York Rd. at Royal City Jaycees Park
+York Rd. at Beaumont Cres.
+York Rd. at Victoria Rd.
+York Rd. at Brockville Ave.
+York Rd. at Harris St.
+Ontario St. at Huron St. 
+70 Ontario St.
+Ontario St. at Neeve St.
+Guelph Central Station
+NexBus ID
+Guelph Central Station
+Gordon St. at Nottingham St.
+Gordon St. at Wellington St.
+Gordon St. at Water St.
+Gordon St. at Forbes Ave.
+Gordon St. at Dean Ave.
+Gordon St. at College Ave.
+University Centre
+Stone Rd. E. at Arbour Medical Centre
+Victoria Rd. S. at Stone Rd. E.
+535 York Rd. at Tim Hortons
+York Rd. at Beaumont Cres.
+728 York Rd.
+785 York Rd.
+York Rd. At Watson Pkwy. N.
+Watson Pkwy. N. opposite Library
+Watson Pkwy. N. at Fleming Rd.
+Watson Pkwy. N. at Grange Rd.
+Watson Pkwy. N. at  Eastview Rd.
+Eastview Rd. at Summit Ridge Dr.
+Eastview Rd. at Starwood Dr.
+Eastview Rd. at Mountford Dr.
+Eastview Rd. at Victoria Rd.
+211 Victoria Rd. N.
+Victoria Rd. N. at Eramosa Rd.
+Victoria Rd. N. at Speedvale Ave. E.
+Victoria Rd. N. at Brant Ave.
+Victoria Rd. N. at Woodlawn Rd. E.
+Victoria Rd. N. opposite Trillium Waldorf
+Inverness Dr. at Wilton Rd.
+Inverness Dr. at Woodlawn Rd.
+Woodlawn Rd. E. at Golfview Dr.
+Woodlawn Rd. E. at Country Club Dr.
+Woodlawn Rd. E. at Riverside Glen
+Woodlawn Rd. E. at Canadian Tire 
+Woodlawn Rd. W. at Walmart
+Nicklin Rd. at Burns Dr.
+Bailey Ave. at Kathleen St.
+Kathleen St. at Speedvale Ave. W.
+Westmount Rd. at Kimberley Dr.
+St. Joseph's Health Centre
+Westmount Rd. at Division St.
+Westmount Rd. at Lourdes
+Westmount Rd. at London Rd. W.
+Yorkshire St. N. at Home St. 
+Suffolk St. W. at Glasgow St.
+Suffolk St. at Dublin St. Church
+160 Woolwich St.
+Wyndham St. N. at IF Shoe Store
+Guelph Central Station
+NexBus ID
+Guelph Central Station
+Gordon St. at Nottingham St.
+Gordon St. at Wellington St.
+Gordon St. at Water St.
+Gordon St. at Forbes Ave.
+Gordon St. at Dean Ave.
+Gordon St. at College Ave.
+University Centre
+Stone Rd. E. at Arbour Medical Centre
+Victoria Rd. S. at Stone Rd. E.
+535 York Rd. at Tim Hortons
+York Rd. at Beaumont Cres.
+728 York Rd.
+785 York Rd.
+York Rd. At Watson Pkwy. N.
+Watson Pkwy. N. opposite Library
+Watson Pkwy. N. at Fleming Rd.
+Watson Pkwy. N. at Grange Rd.
+Watson Pkwy. N. at  Eastview Rd.
+Eastview Rd. at Summit Ridge Dr.
+Eastview Rd. at Starwood Dr.
+Eastview Rd. at Mountford Dr.
+Eastview Rd. at Victoria Rd.
+211 Victoria Rd. N.
+Victoria Rd. N. at Eramosa Rd.
+Victoria Rd. N. at Speedvale Ave. E.
+Victoria Rd. N. at Brant Ave.
+Victoria Rd. N. at Woodlawn Rd. E.
+Victoria Rd. N. opposite Trillium Waldorf
+Inverness Dr. at Wilton Rd.
+Inverness Dr. at Woodlawn Rd.
+Woodlawn Rd. E. at Golfview Dr.
+Woodlawn Rd. E. at Country Club Dr.
+Woodlawn Rd. E. at Riverside Glen
+Woodlawn Rd. E. at Canadian Tire 
+Woodlawn Rd. W. at Walmart
+Nicklin Rd. at Burns Dr.
+Bailey Ave. at Kathleen St.
+Kathleen St. at Speedvale Ave. W.
+Westmount Rd. at Kimberley Dr.
+St. Joseph's Health Centre
+Westmount Rd. at Division St.
+Westmount Rd. at Lourdes
+Westmount Rd. at London Rd. W.
+Yorkshire St. N. at Home St. 
+Suffolk St. W. at Glasgow St.
+Suffolk St. at Dublin St. Church
+160 Woolwich St.
+Wyndham St. N. at IF Shoe Store
+Guelph Central Station
+NexBus ID
+Guelph Central Station
+Gordon St. at Nottingham St.
+Gordon St. at Wellington St.
+Gordon St. at Water St.
+Gordon St. at Forbes Ave.
+Gordon St. at Dean Ave.
+Gordon St. at College Ave.
+University Centre
+Stone Rd. E. at Arbour Medical Centre
+Victoria Rd. S. at Stone Rd. E.
+535 York Rd. at Tim Hortons
+York Rd. at Beaumont Cres.
+728 York Rd.
+785 York Rd.
+York Rd. At Watson Pkwy. N.
+Watson Pkwy. N. opposite Library
+Watson Pkwy. N. at Fleming Rd.
+Watson Pkwy. N. at Grange Rd.
+Watson Pkwy. N. at  Eastview Rd.
+Eastview Rd. at Summit Ridge Dr.
+Eastview Rd. at Starwood Dr.
+Eastview Rd. at Mountford Dr.
+Eastview Rd. at Victoria Rd.
+211 Victoria Rd. N.
+Victoria Rd. N. at Eramosa Rd.
+Victoria Rd. N. at Speedvale Ave. E.
+Victoria Rd. N. at Brant Ave.
+Victoria Rd. N. at Woodlawn Rd. E.
+Victoria Rd. N. opposite Trillium Waldorf
+Inverness Dr. at Wilton Rd.
+Inverness Dr. at Woodlawn Rd.
+Woodlawn Rd. E. at Golfview Dr.
+Woodlawn Rd. E. at Country Club Dr.
+Woodlawn Rd. E. at Riverside Glen
+Woodlawn Rd. E. at Canadian Tire 
+Woodlawn Rd. W. at Walmart
+Nicklin Rd. at Burns Dr.
+Bailey Ave. at Kathleen St.
+Kathleen St. at Speedvale Ave. W.
+Westmount Rd. at Kimberley Dr.
+St. Joseph's Health Centre
+Westmount Rd. at Division St.
+Westmount Rd. at Lourdes
+Westmount Rd. at London Rd. W.
+Yorkshire St. N. at Home St. 
+Suffolk St. W. at Glasgow St.
+Suffolk St. at Dublin St. Church
+160 Woolwich St.
+Wyndham St. N. at IF Shoe Store
+Guelph Central Station
+NexBus ID
+Guelph Central Station
+Wyndham St. N. at PharmaSave
+Woolwich St. at Cardigan St.
+Suffolk St. W. at Norfolk St. 
+Suffolk St. W. at Dublin St. N.
+Suffolk St. W. at Glasgow St.
+Yorkshire St. N. at London Rd. W.
+Westmount Rd. at Lourdes 
+Westmount Rd. at Division St.
+St. Joseph's Health Centre
+Westmount Rd. at Speedvale Ave. W.
+Kathleen St. at June Ave.
+Bailey Ave. at Nicklin Rd.
+Nicklin Rd. at Woodlawn Rd. W.
+Woodlawn Rd. W. at Woolwich St.
+21 Woodlawn Rd. E. at Apartments
+Woodlawn Rd. E. opposite Seniors Centre
+Woodlawn Rd. E. at Fairway Lane
+Woodlawn Rd. E. at Golfview Dr.
+Inverness Dr. at Glenbrook Dr.
+Inverness Dr. at Simmonds Dr.
+Victoria Rd. N. at Trillium Waldorf
+Victoria Rd. N. at Woodlawn Rd. E.
+Victoria Rd. N . at Delta St. 
+Victoria Rd. N. at Speedvale Ave. E.
+Victoria Rd. N. at Eramosa Rd.
+Victoria Rd. N. at St. Paul's Church
+Eastview Rd. at Glenburnie Dr. 
+Eastview Rd. at Mountford Dr.
+Eastview Rd. at Auden Rd.
+Eastview Rd. at Summit Ridge Dr.
+Watson Pkwy. N. at Grange Rd.
+Watson Pkwy. N. at Fleming Rd.
+Watson Pkwy. N. at Library
+York Rd. At Watson Pkwy. N.
+York Rd. at Yorkhaven Pl.
+York Rd. at Royal City Jaycees Park
+York Rd. at Beaumont Cres.
+Victoria Rd. at York Rd. 
+Stone Rd. E. at Victoria Rd. S.
+Stone Rd. E. at Arbour Medical Centre
+University Centre
+Gordon St. at Vet College
+Gordon St. at Macdonald Stewart Art Centre
+Gordon St. at Dormie Lane
+Gordon St. at Water St.
+Wellington St. at Wellington Plaza 
+Guelph Central Station
+NexBus ID
+Guelph Central Station
+Wyndham St. N. at PharmaSave
+Woolwich St. at Cardigan St.
+Suffolk St. W. at Norfolk St. 
+Suffolk St. W. at Dublin St. N.
+Suffolk St. W. at Glasgow St.
+Yorkshire St. N. at London Rd. W.
+Westmount Rd. at Lourdes 
+Westmount Rd. at Division St.
+St. Joseph's Health Centre
+Westmount Rd. at Speedvale Ave. W.
+Kathleen St. at June Ave.
+Bailey Ave. at Nicklin Rd.
+Nicklin Rd. at Woodlawn Rd. W.
+Woodlawn Rd. W. at Woolwich St.
+21 Woodlawn Rd. E. at Apartments
+Woodlawn Rd. E. opposite Seniors Centre
+Woodlawn Rd. E. at Fairway Lane
+Woodlawn Rd. E. at Golfview Dr.
+Inverness Dr. at Glenbrook Dr.
+Inverness Dr. at Simmonds Dr.
+Victoria Rd. N. at Trillium Waldorf
+Victoria Rd. N. at Woodlawn Rd. E.
+Victoria Rd. N . at Delta St. 
+Victoria Rd. N. at Speedvale Ave. E.
+Victoria Rd. N. at Eramosa Rd.
+Victoria Rd. N. at St. Paul's Church
+Eastview Rd. at Glenburnie Dr. 
+Eastview Rd. at Mountford Dr.
+Eastview Rd. at Auden Rd.
+Eastview Rd. at Summit Ridge Dr.
+Watson Pkwy. N. at Grange Rd.
+Watson Pkwy. N. at Fleming Rd.
+Watson Pkwy. N. at Library
+York Rd. At Watson Pkwy. N.
+York Rd. at Yorkhaven Pl.
+York Rd. at Royal City Jaycees Park
+York Rd. at Beaumont Cres.
+Victoria Rd. at York Rd. 
+Stone Rd. E. at Victoria Rd. S.
+Stone Rd. E. at Arbour Medical Centre
+University Centre
+Gordon St. at Vet College
+Gordon St. at Macdonald Stewart Art  Centre
+Gordon St. at Dormie Lane
+Gordon St. at Water St.
+Wellington St. at Wellington Plaza 
+Guelph Central Station
+NexBus ID
+Guelph Central Station
+Wyndham St. N. at PharmaSave
+Woolwich St. at Cardigan St.
+Suffolk St. W. at Norfolk St. 
+Suffolk St. W. at Dublin St. N.
+Suffolk St. W. at Glasgow St.
+Yorkshire St. N. at London Rd. W.
+Westmount Rd. at Lourdes 
+Westmount Rd. at Division St.
+St. Joseph's Health Centre
+Westmount Rd. at Speedvale Ave. W.
+Kathleen St. at June Ave.
+Bailey Ave. at Nicklin Rd.
+Nicklin Rd. at Woodlawn Rd. W.
+Woodlawn Rd. W. at Woolwich St.
+21 Woodlawn Rd. E. at Apartments
+Woodlawn Rd. E. opposite Seniors Centre
+Woodlawn Rd. E. at Fairway Lane
+Woodlawn Rd. E. at Golfview Dr.
+Inverness Dr. at Glenbrook Dr.
+Inverness Dr. at Simmonds Dr.
+Victoria Rd. N. at Trillium Waldorf
+Victoria Rd. N. at Woodlawn Rd. E.
+Victoria Rd. N . at Delta St. 
+Victoria Rd. N. at Speedvale Ave. E.
+Victoria Rd. N. at Eramosa Rd.
+Victoria Rd. N. at St. Paul's Church
+Eastview Rd. at Glenburnie Dr. 
+Eastview Rd. at Mountford Dr.
+Eastview Rd. at Auden Rd.
+Eastview Rd. at Summit Ridge Dr.
+Watson Pkwy. N. at Grange Rd.
+Watson Pkwy. N. at Fleming Rd.
+Watson Pkwy. N. at Library
+York Rd. At Watson Pkwy. N.
+York Rd. at Yorkhaven Pl.
+York Rd. at Royal City Jaycees Park
+York Rd. at Beaumont Cres.
+Victoria Rd. at York Rd. 
+Stone Rd. E. at Victoria Rd. S.
+Stone Rd. E. at Arbour Medical Centre
+University Centre
+Gordon St. at Vet College
+Gordon St. at Macdonald Stewart Art Centre
+Gordon St. at Dormie Lane
+Gordon St. at Water St.
+Wellington St. at Wellington Plaza 
+Guelph Central Station
+NexBus ID
+Guelph Central Station
+Wyndham St. at Bank of Nova Scotia
+Woolwich St. at Cardigan St.
+Woolwich St. at Norwich St.
+Woolwich St. at London Rd.
+Woolwich St. at Kerr St. 
+Woolwich St. at Powell St.
+Woolwich St. at Earl St.
+Woolwich St. at Speedvale Ave. 
+Woolwich St. at Evergreen Seniors Community Centre
+Woolwich St. at Marilyn Dr.
+Woodlawn Rd. W. at Walmart
+Woodlawn Rd. W. at Nicklin Rd.
+Woodlawn Rd. W. at Edinburgh Rd. N.
+Woodlawn Rd. W. at Dawson Rd.
+Woodlawn Rd. W. at Arrow Rd.
+Woodlawn Rd. W. at Silvercreek Pkwy. N.
+Woodlawn Rd. W. at Regal Rd.
+Woodlawn Rd. W. at Royal Rd.
+Imperial Rd. N. at Woodlawn Rd. W.
+Massey Rd. at Imperial Rd. N.
+Royal Rd. at Massey Rd.
+Royal Rd. at ARC Industries
+Imperial Rd. N. at Speedvale Ave. W.
+Imperial Rd. N. at Thornhill Dr.
+Imperial Rd. N. at Kipling Ave.
+Imperial Rd. N. at Willow Rd. 
+Willow Rd. at Flaherty Dr. 
+Elmira Rd. at West End Community Centre
+Elmira Rd.at Paisley Rd. 
+Elmira Rd. at Freshmeadow Way
+Elmira Rd. at Rochelle Dr.
+Fife Rd. at Elmira Rd.
+Fife Rd. at Gateway Dr.
+26 Fife Rd. at Coop
+Wellington St. W. at Wastewater Treatment Plant
+Stone Rd. W. at Scottsdale Dr. 
+Stone Rd. W. at McDonald's
+Stone Rd. W. at Edinburgh Rd. S.
+Stone Rd. W. opposite Target
+95 Stone Rd. W.
+University Centre
+Gordon St. at Vet College
+Gordon St. at Macdonald Stewart Art Centre
+Gordon St. at Dormie Lane
+Gordon St. at Water St.
+Wellington St. at Wellington Plaza 
+Wyndham St. at Fountain St.
+Guelph Central Station
+NexBus ID
+Guelph Central Station
+Wyndham St. at Bank of Nova Scotia
+Woolwich St. at Cardigan St.
+Woolwich St. at Norwich St.
+Woolwich St. at London Rd.
+Woolwich St. at Kerr St. 
+Woolwich St. at Powell St.
+Woolwich St. at Earl St.
+Woolwich St. at Speedvale Ave. 
+Woolwich St. at Evergreen Seniors Community Centre
+Woolwich St. at Marilyn Dr.
+Woodlawn Rd. W. at Walmart
+Woodlawn Rd. W. at Nicklin Rd.
+Woodlawn Rd. W. at Edinburgh Rd. N.
+Woodlawn Rd. W. at Dawson Rd.
+Woodlawn Rd. W. at Arrow Rd.
+Woodlawn Rd. W. at Silvercreek Pkwy. N.
+Woodlawn Rd. W. at Regal Rd.
+Woodlawn Rd. W. at Royal Rd.
+Imperial Rd. N. at Woodlawn Rd. W.
+Massey Rd. at Imperial Rd. N.
+Royal Rd. at Massey Rd.
+Royal Rd. at ARC Industries
+Imperial Rd. N. at Speedvale Ave. W.
+Imperial Rd. N. at Thornhill Dr.
+Imperial Rd. N. at Kipling Ave.
+Imperial Rd. N. at Willow Rd. 
+Willow Rd. at Flaherty Dr. 
+Elmira Rd. at West End Community Centre
+Elmira Rd.at Paisley Rd. 
+Elmira Rd. at Freshmeadow Way
+Elmira Rd. at Rochelle Dr.
+Fife Rd. at Elmira Rd.
+Fife Rd. at Gateway Dr.
+26 Fife Rd. at Coop
+Wellington St. W. at Wastewater Treatment Plant
+Stone Rd. W. at Scottsdale Dr. 
+Stone Rd. W. at McDonald's
+Stone Rd. W. at Edinburgh Rd. S.
+Stone Rd. W. opposite Target
+95 Stone Rd. W.
+University Centre
+Gordon St. at Vet College
+Gordon St. at Macdonald Stewart Art Centre
+Gordon St. at Dormie Lane
+Gordon St. at Water St.
+Wellington St. at Wellington Plaza 
+Wyndham St. at Fountain St.
+Guelph Central Station
+NexBus ID
+Guelph Central Station
+Wyndham St. at Bank of Nova Scotia
+Woolwich St. at Cardigan St.
+Woolwich St. at Norwich St.
+Woolwich St. at London Rd.
+Woolwich St. at Kerr St. 
+Woolwich St. at Powell St.
+Woolwich St. at Earl St.
+Woolwich St. at Speedvale Ave. 
+Woolwich St. at Evergreen Seniors Community Centre
+Woolwich St. at Marilyn Dr.
+Woodlawn Rd. W. at Walmart
+Woodlawn Rd. W. at Nicklin Rd.
+Woodlawn Rd. W. at Edinburgh Rd. N.
+Woodlawn Rd. W. at Dawson Rd.
+Woodlawn Rd. W. at Arrow Rd.
+Woodlawn Rd. W. at Silvercreek Pkwy. N.
+Woodlawn Rd. W. at Regal Rd.
+Woodlawn Rd. W. at Royal Rd.
+Imperial Rd. N. at Woodlawn Rd. W.
+Massey Rd. at Imperial Rd. N.
+Royal Rd. at Massey Rd.
+Royal Rd. at ARC Industries
+Imperial Rd. N. at Speedvale Ave. W.
+Imperial Rd. N. at Thornhill Dr.
+Imperial Rd. N. at Kipling Ave.
+Imperial Rd. N. at Willow Rd. 
+Willow Rd. at Flaherty Dr. 
+Elmira Rd. at West End Community Centre
+Elmira Rd.at Paisley Rd. 
+Elmira Rd. at Freshmeadow Way
+Elmira Rd. at Rochelle Dr.
+Fife Rd. at Elmira Rd.
+Fife Rd. at Gateway Dr.
+26 Fife Rd. at Coop
+Wellington St. W. at Wastewater Treatment Plant
+Stone Rd. W. at Scottsdale Dr. 
+Stone Rd. W. at McDonald's
+Stone Rd. W. at Edinburgh Rd. S.
+Stone Rd. W. opposite Target
+95 Stone Rd. W.
+University Centre
+Gordon St. at Vet College
+Gordon St. at Macdonald Stewart Art Centre
+Gordon St. at Dormie Lane
+Gordon St. at Water St.
+Wellington St. at Wellington Plaza 
+Wyndham St. at Fountain St.
+Guelph Central Station
+NexBus ID
+Guelph Central Station
+Wellington St. at KFC
+Gordon St. at Water St.
+Gordon St. at Forbes Ave.
+Gordon St. at Dean Ave.
+Gordon St. at College Ave.W.
+University Centre 
+Stone Rd. W. at Edinburgh Rd. S.
+Stone Rd. W. at Stone Road Mall
+659 Wellington St. W. 
+Fife Rd. at Wellington St. W.
+Fife Rd. at Gateway Dr.
+Fife Rd. at Deerfield Pl.
+Elmira Rd. at West Acres Dr.
+Elmira Rd. at Freshmeadow Way
+Elmira Rd. at Stephanie Dr.
+Elmira Rd. at Zehrs
+Elmira Rd. at West End Community Centre
+Willow Rd. at Flaherty Dr.
+Imperial Rd. N. at Willow Rd.
+Imperial Rd. N. at Dunhill Cres.
+Imperial Rd. N. at Westwood Rd.
+Imperial Rd. N. at Speedvale Ave. W.
+ARC Industries
+Royal Rd. at Massey Rd. (Guelph Tool)
+Massey Rd. at Imperial Rd.
+Imperial Rd. N. at Woodlawn Rd. W.
+Woodlawn Rd. W. at Royal Rd.
+Woodlawn Rd. W. at Regal Rd.
+Woodlawn Rd. W. at Silvercreek Pkwy. N.
+Woodlawn Rd. W. at Dawson Rd.
+Woodlawn Rd. W. at Edinburgh Rd. N.
+Woodlawn Rd. W. at Nicklin Rd.
+Woodlawn Rd. W. at Woolwich St. 
+Woolwich St. at Marilyn Dr.
+Woolwich St. at Evergreen
+Woolwich St. at Mac Ave.
+Woolwich St. at Tiffany St.
+Woolwich St. at London Rd.
+Woolwich St. at Wyndham St. N.
+Wyndham St. N. at IF Shoe Store
+Guelph Central Station
+0.253472222222
+NexBus ID
+Guelph Central Station
+Wellington St. at KFC
+Gordon St. at Water St.
+Gordon St. at Forbes Ave.
+Gordon St. at Dean Ave.
+Gordon St. at College Ave.W.
+University Centre 
+Stone Rd. W. at Edinburgh Rd. S.
+Stone Rd. W. at Stone Road Mall
+659 Wellington St. W. 
+Fife Rd. at Wellington St. W.
+Fife Rd. at Gateway Dr.
+Fife Rd. at Deerfield Pl.
+Elmira Rd. at West Acres Dr.
+Elmira Rd. at Freshmeadow Way
+Elmira Rd. at Stephanie Dr.
+Elmira Rd. at Zehrs
+Elmira Rd. at West End Community Centre
+Willow Rd. at Flaherty Dr.
+Imperial Rd. N. at Willow Rd.
+Imperial Rd. N. at Dunhill Cres.
+Imperial Rd. N. at Westwood Rd.
+Imperial Rd. N. at Speedvale Ave. W.
+ARC Industries
+Royal Rd. at Massey Rd. (Guelph Tool)
+Massey Rd. at Imperial Rd.
+Imperial Rd. N. at Woodlawn Rd. W.
+Woodlawn Rd. W. at Royal Rd.
+Woodlawn Rd. W. at Regal Rd.
+Woodlawn Rd. W. at Silvercreek Pkwy. N.
+Woodlawn Rd. W. at Dawson Rd.
+Woodlawn Rd. W. at Edinburgh Rd. N.
+Woodlawn Rd. W. at Nicklin Rd.
+Woodlawn Rd. W. at Woolwich St. 
+Woolwich St. at Marilyn Dr.
+Woolwich St. at Evergreen
+Woolwich St. at Mac Ave.
+Woolwich St. at Tiffany St.
+Woolwich St. at London Rd.
+Woolwich St. at Wyndham St. N.
+Wyndham St. N. at IF Shoe Store
+Guelph Central Station
+NexBus ID
+Guelph Central Station
+Wellington St. at KFC
+Gordon St. at Water St.
+Gordon St. at Forbes Ave.
+Gordon St. at Dean Ave.
+Gordon St. at College Ave.W.
+University Centre 
+Stone Rd. W. at Edinburgh Rd. S.
+Stone Rd. W. at Stone Road Mall
+659 Wellington St. W. 
+Fife Rd. at Wellington St. W.
+Fife Rd. at Gateway Dr.
+Fife Rd. at Deerfield Pl.
+Elmira Rd. at West Acres Dr.
+Elmira Rd. at Freshmeadow Way
+Elmira Rd. at Stephanie Dr.
+Elmira Rd. at Zehrs
+Elmira Rd. at West End Community Centre
+Willow Rd. at Flaherty Dr.
+Imperial Rd. N. at Willow Rd.
+Imperial Rd. N. at Dunhill Cres.
+Imperial Rd. N. at Westwood Rd.
+Imperial Rd. N. at Speedvale Ave. W.
+ARC Industries
+Royal Rd. at Massey Rd. (Guelph Tool)
+Massey Rd. at Imperial Rd.
+Imperial Rd. N. at Woodlawn Rd. W.
+Woodlawn Rd. W. at Royal Rd.
+Woodlawn Rd. W. at Regal Rd.
+Woodlawn Rd. W. at Silvercreek Pkwy. N.
+Woodlawn Rd. W. at Dawson Rd.
+Woodlawn Rd. W. at Edinburgh Rd. N.
+Woodlawn Rd. W. at Nicklin Rd.
+Woodlawn Rd. W. at Woolwich St. 
+Woolwich St. at Marilyn Dr.
+Woolwich St. at Evergreen
+Woolwich St. at Mac Ave.
+Woolwich St. at Tiffany St.
+Woolwich St. at London Rd.
+Woolwich St. at Wyndham St. N.
+Wyndham St. N. at IF Shoe Store
+Guelph Central Station
+University Centre
+East Ring Rd. at Arboretum Rd.
+East Ring Rd. at Dundas Lane
+College Ave. E. at MacDonald St.
+College Ave. W. at Caledonia St.
+College Ave. W. at Edinburgh Rd.
+College Ave. W. at Centennial
+129 Janefield Ave.
+Janefield Ave. at Scottsdale Dr.
+Stone Rd. W. at Scottsdale Dr. 
+372 Stone Rd. W.
+292 Stone Rd. W.
+583 Edinburgh Rd. S.
+685 Edinburgh Rd. S.
+777 Edinburgh Rd. S.
+Edinburgh  Rd. S. at Southcreek Trail
+Edinburgh Rd. S. at Rickson Ave.
+Edinburgh Rd. S. at Carrington Dr.
+Gordon St. at Valley Rd.
+Gordon St. at Landsdown Dr.
+Gordon St. at Harts Lane
+1030 Gordon St.
+Gordon St. at Kortright Rd.
+Gordon St. at Hands Dr.
+Gordon St. at Monticello Cres.
+University Centre
+University Centre
+East Ring Rd. at Arboretum Rd.
+East Ring Rd. at Dundas Lane
+College Ave. E. at MacDonald St.
+College Ave. W. at Caledonia St.
+College Ave. W. at Edinburgh Rd.
+College Ave. W. at Centennial
+129 Janefield Ave.
+Janefield Ave. at Scottsdale Dr.
+Stone Rd. W. at Scottsdale Dr. 
+372 Stone Rd. W.
+292 Stone Rd. W.
+583 Edinburgh Rd. S.
+685 Edinburgh Rd. S.
+777 Edinburgh Rd. S.
+Edinburgh  Rd. S. at Southcreek Trail
+Edinburgh Rd. S. at Rickson Ave.
+Edinburgh Rd. S. at Carrington Dr.
+Gordon St. at Valley Rd.
+Gordon St. at Landsdown Dr.
+Gordon St. at Harts Lane
+1030 Gordon St.
+Gordon St. at Kortright Rd.
+Gordon St. at Hands Dr.
+Gordon St. at Monticello Cres.
+University Centre
+University Centre
+East Ring Rd. at Arboretum Rd.
+East Ring Rd. at Dundas Lane
+College Ave. E. at MacDonald St.
+College Ave. W. at Caledonia St.
+College Ave. W. at Edinburgh Rd.
+College Ave. W. at Centennial
+129 Janefield Ave.
+Janefield Ave. at Scottsdale Dr.
+Stone Rd. W. at Scottsdale Dr. 
+372 Stone Rd. W.
+292 Stone Rd. W.
+583 Edinburgh Rd. S.
+685 Edinburgh Rd. S.
+777 Edinburgh Rd. S.
+Edinburgh  Rd. S. at Southcreek Trail
+Edinburgh Rd. S. at Rickson Ave.
+Edinburgh Rd. S. at Carrington Dr.
+Gordon St. at Valley Rd.
+Gordon St. at Landsdown Dr.
+Gordon St. at Harts Lane
+1030 Gordon St.
+Gordon St. at Kortright Rd.
+Gordon St. at Hands Dr.
+Gordon St. at Monticello Cres.
+University Centre
+University Centre
+Gordon St. at Stone Rd. W.
+Gordon St. at Harvard Rd.
+Gordon St. at Kortright Rd.
+Gordon St. at Harts Lane
+1155 Gordon St.
+Gordon St. at Edinburgh Rd. S.
+Edinburgh Rd. S. at Carrington Dr.
+Edinburgh Rd. S. at Rickson Ave.
+Edinburgh Rd. S. at Ginger Crt.
+Edinburgh Rd. S. at Rogers Rd.
+Edinburgh Rd. S. at Koch Dr.
+Edinburgh Rd. S. at Laurelwood Crt.
+Stone Rd. W. at Stone Road Mall
+Stone Rd. W. at Scottsdale Dr.
+181 Janefield Ave.
+53 Janefield Ave.
+264 College Ave. W.
+College Ave. W. at Meadowcroft
+50 College Ave. W.
+College Ave. E. at MacDonald St.
+East Ring Rd. at Dundas Lane
+East Ring Rd. at Arboretum Rd. 
+University Centre 
+University Centre
+Gordon St. at Stone Rd. W.
+Gordon St. at Harvard Rd.
+Gordon St. at Kortright Rd.
+Gordon St. at Harts Lane
+1155 Gordon St.
+Gordon St. at Edinburgh Rd. S.
+Edinburgh Rd. S. at Carrington Dr.
+Edinburgh Rd. S. at Rickson Ave.
+Edinburgh Rd. S. at Ginger Crt.
+Edinburgh Rd. S. at Rogers Rd.
+Edinburgh Rd. S. at Koch Dr.
+Edinburgh Rd. S. at Laurelwood Crt.
+Stone Rd. W. at Stone Road Mall
+Stone Rd. W. at Scottsdale Dr.
+181 Janefield Ave.
+53 Janefield Ave.
+264 College Ave. W.
+College Ave. W. at Meadowcroft
+50 College Ave. W.
+College Ave. E. at MacDonald St.
+East Ring Rd. at Dundas Lane
+East Ring Rd. at Arboretum Rd. 
+University Centre 
+University Centre
+Gordon St. at Stone Rd. W.
+Gordon St. at Harvard Rd.
+Gordon St. at Kortright Rd.
+Gordon St. at Harts Lane
+1155 Gordon St.
+Gordon St. at Edinburgh Rd. S.
+Edinburgh Rd. S. at Carrington Dr.
+Edinburgh Rd. S. at Rickson Ave.
+Edinburgh Rd. S. at Ginger Crt.
+Edinburgh Rd. S. at Rogers Rd.
+Edinburgh Rd. S. at Koch Dr.
+Edinburgh Rd. S. at Laurelwood Crt.
+Stone Rd. W. at Stone Road Mall
+Stone Rd. W. at Scottsdale Dr.
+181 Janefield Ave.
+53 Janefield Ave.
+264 College Ave. W.
+College Ave. W. at Meadowcroft
+50 College Ave. W.
+College Ave. E. at MacDonald St.
+East Ring Rd. at Dundas Lane
+East Ring Rd. at Arboretum Rd. 
+University Centre 

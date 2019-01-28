@@ -1,0 +1,14 @@
+Part 2
+(Allowed to be in point form based off pdf)
+
+- The target platform this project is a mobile app which can be used whenever someone needs to catch a bus.  More specifically, it will be developed on Android.
+
+- The development platform is Android Studio and the app will be done in Java and XML.
+
+- The source code as well as the documentation for this project will be hosted on Bit Bucket.
+
+- For APIs, the plan is to use the Google Maps API and possibly NextBus'.  The original plan was to contact Guelph Transit to use the GPS on their buses.  Unfortunately, they have not yet responded which means the next step in the plan is the NextBus API.
+
+- The company will be paying a graphic artist from Toronto to make a logo for the company. It will cost $20 which the team will cover. She works for ExperiencePoint , a company selling leadership training and development process training, "Working with most Fortune 100's top companies and the world's leading business schools." - http://www.experiencepoint.com/
+
+- A database will be used to store the Guelph Transt bus schedule.  Guelph Transit has posted their schedule online in a Google Doc, but it would be wise to save that information in our own database just incase they decide to remove that information.  The database will be set up on mySQL and PHP will be used to connect it to the app.

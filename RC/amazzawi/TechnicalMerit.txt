@@ -1,0 +1,11 @@
+Anthony Mazzawi
+
+getUpdateTime.php - 30 min
+getRoutes.php - 30 min
+AlertDialogController.java - 2 hr
+NotificationActivity - 45 min
+LoadStops.java - 3 hr
+LoadTime.java - 1 hr
+MainActivity.java - 15 hr
+
+Between the alpha and the RC, the coordinates were still being gathered which took a fair bit of time.  One of the big things to do was fix the express times because express only operates on weekdays.  They were changed in the php file so the json will have it's own array for Express busses.  There is also a boolean in the phone to determine if the route is an express bus. The next major functionality to be implemented was being able to update the database on the phone without clearing all the data from outside the app.  Users will get a notification when the app is out of date and when they try to update an up-to-date schedule, they will not be allowed.

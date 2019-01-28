@@ -1,0 +1,14 @@
+Files:
+	FragmentSpecialBar.java: 3 hours 
+	FragmentStopBar.java: 2 hours
+	MainActivity.java: 6 hours
+	ActivityScheduleExpTimes.java: 2 hours
+	ActivityScheduleBus.java: 2 hours
+	page_schedule_exp_times.xml: 1.5 hours
+	page_schedule_times.xml: 1/2 hours
+
+Other:
+	Photoshop - Changing icon sizes and colour’s: 1 hour 
+
+Notes:
+	After the release of our Alpha, I began implementing the separation between the home, favorites and location page. I had to set up a fragment for each state and allow users to switch between states on clicking the icons. After this I rebuild the scheduled times page and built a new one for express busses. Finally I implemented the favorite bar functionality, allowing the user to hold icons to add or remove them from their favorites, the ‘clear favorites’ button in settings is also functional. Other than coding I spent a significant amount of time attempting to help with the pin’s and maps, but instead spent some time learning and understand the syntax, as well as our class and file organization. Significant time was also spent by our group refactoring and reorganizing our code. 

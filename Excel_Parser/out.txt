@@ -1,0 +1,316 @@
+| 1643   | 1030 Gordon St.                                 |
+| 0534   | 1030 Gordon St.                                 |
+| 0105   | 1155 Gordon St.                                 |
+| 1610   | 1155 Gordon St.                                 |
+| 0512   | 1155 Gordon St.                                 |
+| 0157   | 129 Janefield Ave.                              |
+| 0811   | 129 Janefield Ave.                              |
+| 1121   | 200 Edinburgh Rd. N.                            |
+| 2041   | 200 Edinburgh Rd. N.                            |
+| 0620   | 372 Stone Rd. W.                                |
+| 0160   | 372 Stone Rd. W.                                |
+| 0360   | 535 York Rd. at Tim Hortons                     |
+| 0408   | 535 York Rd. at Tim Hortons                     |
+| 0410   | 728 York Rd.                                    |
+| 0362   | 728 York Rd.                                    |
+| 0120   | College Ave. E. at MacDonald St.                |
+| 0153   | College Ave. E. at MacDonald St.                |
+| 0156   | College Ave. W. at Centennial                   |
+| 0810   | College Ave. W. at Centennial                   |
+| 0817   | College Ave. W. at Meadowcroft                  |
+| 0118   | College Ave. W. at Meadowcroft                  |
+| 1222   | Delhi St. at Emma St.                           |
+| 1206   | Delhi St. at Emma St.                           |
+| 1225   | Delhi St. at Eramosa Rd.                        |
+| 1203   | Delhi St. at Eramosa Rd.                        |
+| 1205   | Delhi St. at Homewood Health Centre             |
+| 1223   | Delhi St. at Homewood Health Centre             |
+| 0122   | East Ring Rd. at Arboretum Rd.                  |
+| 0151   | East Ring Rd. at Arboretum Rd.                  |
+| 0121   | East Ring Rd. at Dundas Lane                    |
+| 0152   | East Ring Rd. at Dundas Lane                    |
+| 1316   | Eastview Rd. at Glenburnie Dr.                  |
+| 0327   | Eastview Rd. at Glenburnie Dr.                  |
+| 1317   | Eastview Rd. at Mountford Dr.                   |
+| 1321   | Eastview Rd. at Mountford Dr.                   |
+| 0328   | Eastview Rd. at Mountford Dr.                   |
+| 0371   | Eastview Rd. at Mountford Dr.                   |
+| 0330   | Eastview Rd. at Summit Ridge Dr.                |
+| 0369   | Eastview Rd. at Summit Ridge Dr.                |
+| 0167   | Edinburgh Rd. S. at Carrington Dr.              |
+| 0107   | Edinburgh Rd. S. at Carrington Dr.              |
+| 0166   | Edinburgh Rd. S. at Rickson Ave.                |
+| 0108   | Edinburgh Rd. S. at Rickson Ave.                |
+| 1422   | Elizabeth St. at Morris St.                     |
+| 1403   | Elizabeth St. at Morris St.                     |
+| 1404   | Elizabeth St. at Stevenson St.                  |
+| 1421   | Elizabeth St. at Stevenson St.                  |
+| 1405   | Elizabeth St. at Victoria Rd. N.                |
+| 1420   | Elizabeth St. at Victoria Rd. N.                |
+| 0214   | Elmira Rd. at Freshmeadow Way                   |
+| 0280   | Elmira Rd. at Freshmeadow Way                   |
+| 0278   | Elmira Rd. at West End Community Centre         |
+| 0217   | Elmira Rd. at West End Community Centre         |
+| 1328   | Eramosa Rd. at Arthur St.                       |
+| 1226   | Eramosa Rd. at Arthur St.                       |
+| 1302   | Eramosa Rd. at Bridge                           |
+| 1202   | Eramosa Rd. at Bridge                           |
+| 0283   | Fife Rd. at Gateway Dr.                         |
+| 0211   | Fife Rd. at Gateway Dr.                         |
+| 1639   | Gordon St. at Arkell Rd.                        |
+| 1612   | Gordon St. at Arkell Rd.                        |
+| 0530   | Gordon St. at Arkell Rd.                        |
+| 0356   | Gordon St. at College Ave.                      |
+| 1605   | Gordon St. at College Ave.                      |
+| 0506   | Gordon St. at College Ave.                      |
+| 1638   | Gordon St. at Continuing Education              |
+| 0529   | Gordon St. at Continuing Education              |
+| 0505   | Gordon St. at Dean Ave.                         |
+| 0355   | Gordon St. at Dean Ave.                         |
+| 1604   | Gordon St. at Dean Ave.                         |
+| 0204   | Gordon St. at Dean Ave.                         |
+| 1650   | Gordon St. at Dormie Lane                       |
+| 0541   | Gordon St. at Dormie Lane                       |
+| 0344   | Gordon St. at Dormie Lane                       |
+| 0294   | Gordon St. at Dormie Lane                       |
+| 1611   | Gordon St. at Edinburgh Rd. S.                  |
+| 0106   | Gordon St. at Edinburgh Rd. S.                  |
+| 0513   | Gordon St. at Edinburgh Rd. S.                  |
+| 0354   | Gordon St. at Forbes Ave.                       |
+| 0504   | Gordon St. at Forbes Ave.                       |
+| 0203   | Gordon St. at Forbes Ave.                       |
+| 1603   | Gordon St. at Forbes Ave.                       |
+| 0723   | Gordon St. at Hands Dr.                         |
+| 1645   | Gordon St. at Hands Dr.                         |
+| 0536   | Gordon St. at Hands Dr.                         |
+| 0173   | Gordon St. at Hands Dr.                         |
+| 0104   | Gordon St. at Harts Lane                        |
+| 0170   | Gordon St. at Harts Lane                        |
+| 0511   | Gordon St. at Harts Lane                        |
+| 1642   | Gordon St. at Harts Lane                        |
+| 1609   | Gordon St. at Harts Lane                        |
+| 0533   | Gordon St. at Harts Lane                        |
+| 0509   | Gordon St. at Harvard Rd.                       |
+| 0602   | Gordon St. at Harvard Rd.                       |
+| 1607   | Gordon St. at Harvard Rd.                       |
+| 0102   | Gordon St. at Harvard Rd.                       |
+| 0701   | Gordon St. at Harvard Rd.                       |
+| 0535   | Gordon St. at Kortright Rd.                     |
+| 0172   | Gordon St. at Kortright Rd.                     |
+| 1608   | Gordon St. at Kortright Rd.                     |
+| 0103   | Gordon St. at Kortright Rd.                     |
+| 0702   | Gordon St. at Kortright Rd.                     |
+| 1644   | Gordon St. at Kortright Rd.                     |
+| 0510   | Gordon St. at Kortright Rd.                     |
+| 0722   | Gordon St. at Kortright Rd.                     |
+| 1641   | Gordon St. at Landsdown Dr.                     |
+| 0532   | Gordon St. at Landsdown Dr.                     |
+| 0169   | Gordon St. at Landsdown Dr.                     |
+| 1637   | Gordon St. at Lowes Rd.                         |
+| 1614   | Gordon St. at Lowes Rd.                         |
+| 0528   | Gordon St. at Lowes Rd.                         |
+| 0343   | Gordon St. at Macdonald Stewart Art Centre      |
+| 0540   | Gordon St. at Macdonald Stewart Art Centre      |
+| 0293   | Gordon St. at Macdonald Stewart Art Centre      |
+| 1649   | Gordon St. at Macdonald Stewart Art Centre      |
+| 0174   | Gordon St. at Monticello Cres.                  |
+| 0537   | Gordon St. at Monticello Cres.                  |
+| 0626   | Gordon St. at Monticello Cres.                  |
+| 1646   | Gordon St. at Monticello Cres.                  |
+| 0724   | Gordon St. at Monticello Cres.                  |
+| 0501   | Gordon St. at Nottingham St.                    |
+| 0351   | Gordon St. at Nottingham St.                    |
+| 0601   | Gordon St. at Stone Rd. W.                      |
+| 0101   | Gordon St. at Stone Rd. W.                      |
+| 1606   | Gordon St. at Stone Rd. W.                      |
+| 0508   | Gordon St. at Stone Rd. W.                      |
+| 0168   | Gordon St. at Valley Rd.                        |
+| 1640   | Gordon St. at Valley Rd.                        |
+| 0531   | Gordon St. at Valley Rd.                        |
+| 0292   | Gordon St. at Vet College                       |
+| 1648   | Gordon St. at Vet College                       |
+| 0539   | Gordon St. at Vet College                       |
+| 0342   | Gordon St. at Vet College                       |
+| 0542   | Gordon St. at Water St.                         |
+| 0803   | Gordon St. at Water St.                         |
+| 0503   | Gordon St. at Water St.                         |
+| 0353   | Gordon St. at Water St.                         |
+| 1651   | Gordon St. at Water St.                         |
+| 0345   | Gordon St. at Water St.                         |
+| 0295   | Gordon St. at Water St.                         |
+| 0202   | Gordon St. at Water St.                         |
+| 1602   | Gordon St. at Water St.                         |
+| 0543   | Gordon St. at Wellington St.                    |
+| 0352   | Gordon St. at Wellington St.                    |
+| 0502   | Gordon St. at Wellington St.                    |
+| 0300   | Guelph Central Station                          |
+| 0430   | Guelph Central Station                          |
+| 1228   | Guelph Central Station                          |
+| 1600   | Guelph Central Station                          |
+| 1654   | Guelph Central Station                          |
+| 0900   | Guelph Central Station                          |
+| 1000   | Guelph Central Station                          |
+| 0924   | Guelph Central Station                          |
+| 0349   | Guelph Central Station                          |
+| 1300   | Guelph Central Station                          |
+| 0298   | Guelph Central Station                          |
+| 0500   | Guelph Central Station                          |
+| 0400   | Guelph Central Station                          |
+| 1200   | Guelph Central Station                          |
+| 0399   | Guelph Central Station                          |
+| 1400   | Guelph Central Station                          |
+| 0800   | Guelph Central Station                          |
+| 0200   | Guelph Central Station                          |
+| 1425   | Guelph Central Station                          |
+| 0827   | Guelph Central Station                          |
+| 0241   | Guelph Central Station                          |
+| 0250   | Guelph Central Station                          |
+| 1028   | Guelph Central Station                          |
+| 0350   | Guelph Central Station                          |
+| 2046   | Guelph Central Station                          |
+| 0546   | Guelph Central Station                          |
+| 1330   | Guelph Central Station                          |
+| 1100   | Guelph Central Station                          |
+| 0923   | Guelph City Hall                                |
+| 0826   | Guelph City Hall                                |
+| 0604   | Harvard Rd. at Princeton Pl.                    |
+| 0623   | Harvard Rd. at Princeton Pl.                    |
+| 0222   | Imperial Rd. N. at Speedvale Ave. W.            |
+| 0273   | Imperial Rd. N. at Speedvale Ave. W.            |
+| 0276   | Imperial Rd. N. at Willow Rd.                   |
+| 0219   | Imperial Rd. N. at Willow Rd.                   |
+| 0269   | Imperial Rd. N. at Woodlawn Rd. W.              |
+| 0226   | Imperial Rd. N. at Woodlawn Rd. W.              |
+| 0158   | Janefield Ave. at Scottsdale Dr.                |
+| 0812   | Janefield Ave. at Scottsdale Dr.                |
+| 0719   | Kortright Rd. W. at Edinburgh Rd. S.            |
+| 0705   | Kortright Rd. W. at Edinburgh Rd. S.            |
+| 0716   | Kortright Rd. W. at Hanlon Rd.                  |
+| 0708   | Kortright Rd. W. at Hanlon Rd.                  |
+| 0720   | Kortright Rd. W. at Rickson Ave.                |
+| 0704   | Kortright Rd. W. at Rickson Ave.                |
+| 1022   | Paisley Rd. at Alma St.                         |
+| 1007   | Paisley Rd. at Alma St.                         |
+| 1020   | Paisley Rd. at Heath Rd.                        |
+| 1009   | Paisley Rd. at Heath Rd.                        |
+| 1123   | Paisley St. at Glasgow St.                      |
+| 1025   | Paisley St. at Glasgow St.                      |
+| 1003   | Paisley St. at Glasgow St.                      |
+| 2043   | Paisley St. at Glasgow St.                      |
+| 1124   | Paisley St. at Norfolk St.                      |
+| 1026   | Paisley St. at Norfolk St.                      |
+| 2044   | Paisley St. at Norfolk St.                      |
+| 2042   | Paisley St. at Yorkshire St. N.                 |
+| 1024   | Paisley St. at Yorkshire St. N.                 |
+| 1122   | Paisley St. at Yorkshire St. N.                 |
+| 0309   | St. Joseph's Health Centre                      |
+| 0390   | St. Joseph's Health Centre                      |
+| 0340   | Stone Rd. E. at Arbour Medical Centre           |
+| 0358   | Stone Rd. E. at Arbour Medical Centre           |
+| 0621   | Stone Rd. W. at Edinburgh Rd. S.                |
+| 0288   | Stone Rd. W. at Edinburgh Rd. S.                |
+| 0207   | Stone Rd. W. at Edinburgh Rd. S.                |
+| 0286   | Stone Rd. W. at Scottsdale Dr.                  |
+| 0114   | Stone Rd. W. at Scottsdale Dr.                  |
+| 0619   | Stone Rd. W. at Scottsdale Dr.                  |
+| 0159   | Stone Rd. W. at Scottsdale Dr.                  |
+| 0607   | Stone Rd. W. at Stone Road Mall                 |
+| 0113   | Stone Rd. W. at Stone Road Mall                 |
+| 0208   | Stone Rd. W. at Stone Road Mall                 |
+| 0395   | Suffolk St. W. at Glasgow St.                   |
+| 1104   | Suffolk St. W. at Glasgow St.                   |
+| 0305   | Suffolk St. W. at Glasgow St.                   |
+| 0303   | Suffolk St. W. at Norfolk St.                   |
+| 1102   | Suffolk St. W. at Norfolk St.                   |
+| 0357   | University Centre                               |
+| 0341   | University Centre                               |
+| 0291   | University Centre                               |
+| 0538   | University Centre                               |
+| 0507   | University Centre                               |
+| 0150   | University Centre                               |
+| 0100   | University Centre                               |
+| 0175   | University Centre                               |
+| 0700   | University Centre                               |
+| 0725   | University Centre                               |
+| 0206   | University Centre                               |
+| 0627   | University Centre                               |
+| 0600   | University Centre                               |
+| 0123   | University Centre                               |
+| 1213   | Victoria Rd. N. at Brant Ave.                   |
+| 0376   | Victoria Rd. N. at Brant Ave.                   |
+| 0325   | Victoria Rd. N. at Eramosa Rd.                  |
+| 0374   | Victoria Rd. N. at Eramosa Rd.                  |
+| 0375   | Victoria Rd. N. at Speedvale Ave. E.            |
+| 1212   | Victoria Rd. N. at Speedvale Ave. E.            |
+| 0324   | Victoria Rd. N. at Speedvale Ave. E.            |
+| 0377   | Victoria Rd. N. at Woodlawn Rd. E.              |
+| 0322   | Victoria Rd. N. at Woodlawn Rd. E.              |
+| 0824   | Waterloo Ave. at Glasgow St.                    |
+| 0902   | Waterloo Ave. at Glasgow St.                    |
+| 0921   | Waterloo Ave. at Glasgow St.                    |
+| 1412   | Watson Pkwy. N. at Fleming Rd.                  |
+| 0366   | Watson Pkwy. N. at Fleming Rd.                  |
+| 0332   | Watson Pkwy. N. at Fleming Rd.                  |
+| 0367   | Watson Pkwy. N. at Grange Rd.                   |
+| 0331   | Watson Pkwy. N. at Grange Rd.                   |
+| 0333   | Watson Pkwy. N. at Library                      |
+| 1413   | Watson Pkwy. N. at Library                      |
+| 0296   | Wellington St. at Wellington Plaza              |
+| 0347   | Wellington St. at Wellington Plaza              |
+| 1601   | Wellington St. E. at KFC                        |
+| 0802   | Wellington St. E. at KFC                        |
+| 0917   | Wellington St. W. at Wastewater Treatment Plant |
+| 0285   | Wellington St. W. at Wastewater Treatment Plant |
+| 0391   | Westmount Rd. at Division St.                   |
+| 0308   | Westmount Rd. at Division St.                   |
+| 0307   | Westmount Rd. at Lourdes                        |
+| 0392   | Westmount Rd. at Lourdes                        |
+| 0218   | Willow Rd. at Flaherty Dr.                      |
+| 0277   | Willow Rd. at Flaherty Dr.                      |
+| 0318   | Woodlawn Rd. E. at Golfview Dr.                 |
+| 0381   | Woodlawn Rd. E. at Golfview Dr.                 |
+| 0230   | Woodlawn Rd. W. at Dawson Rd.                   |
+| 0264   | Woodlawn Rd. W. at Dawson Rd.                   |
+| 0263   | Woodlawn Rd. W. at Edinburgh Rd. N.             |
+| 0231   | Woodlawn Rd. W. at Edinburgh Rd. N.             |
+| 0232   | Woodlawn Rd. W. at Nicklin Rd.                  |
+| 0262   | Woodlawn Rd. W. at Nicklin Rd.                  |
+| 0228   | Woodlawn Rd. W. at Regal Rd.                    |
+| 0267   | Woodlawn Rd. W. at Regal Rd.                    |
+| 0268   | Woodlawn Rd. W. at Royal Rd.                    |
+| 0227   | Woodlawn Rd. W. at Royal Rd.                    |
+| 0266   | Woodlawn Rd. W. at Silvercreek Pkwy. N.         |
+| 0229   | Woodlawn Rd. W. at Silvercreek Pkwy. N.         |
+| 0261   | Woodlawn Rd. W. at Walmart                      |
+| 0385   | Woodlawn Rd. W. at Walmart                      |
+| 0314   | Woodlawn Rd. W. at Woolwich St.                 |
+| 0233   | Woodlawn Rd. W. at Woolwich St.                 |
+| 0252   | Woolwich St. at Cardigan St.                    |
+| 0302   | Woolwich St. at Cardigan St.                    |
+| 0238   | Woolwich St. at London Rd.                      |
+| 0254   | Woolwich St. at London Rd.                      |
+| 0260   | Woolwich St. at Marilyn Dr.                     |
+| 0234   | Woolwich St. at Marilyn Dr.                     |
+| 1130   | Wyndham St. N. at IF Shoe Store                 |
+| 0398   | Wyndham St. N. at IF Shoe Store                 |
+| 2045   | Wyndham St. N. at IF Shoe Store                 |
+| 1227   | Wyndham St. N. at IF Shoe Store                 |
+| 1027   | Wyndham St. N. at IF Shoe store                 |
+| 0240   | Wyndham St. N. at IF Shoe Store                 |
+| 1329   | Wyndham St. N. at IF Shoe Store                 |
+| 0301   | Wyndham St. N. at PharmaSave                    |
+| 1201   | Wyndham St. N. at PharmaSave                    |
+| 0423   | York Rd. at Beaumont Cres.                      |
+| 0361   | York Rd. at Beaumont Cres.                      |
+| 0409   | York Rd. at Beaumont Cres.                      |
+| 0337   | York Rd. at Beaumont Cres.                      |
+| 0406   | York Rd. at Brockville Ave.                     |
+| 0425   | York Rd. at Brockville Ave.                     |
+| 0336   | York Rd. at Royal City Jaycees Park             |
+| 0422   | York Rd. at Royal City Jaycees Park             |
+| 0420   | York Rd. at Watson Pkwy. N.                     |
+| 0412   | York Rd. at Watson Pkwy. N.                     |
+| 0334   | York Rd. At Watson Pkwy. N.                     |
+| 0364   | York Rd. At Watson Pkwy. N.                     |
+| 0421   | York Rd. at Yorkhaven Pl.                       |
+| 0335   | York Rd. at Yorkhaven Pl.                       |

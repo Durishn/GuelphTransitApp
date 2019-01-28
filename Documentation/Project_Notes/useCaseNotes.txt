@@ -1,0 +1,21 @@
+USE CASES
+-----------------
+Transit Rider
+-----------------
+Look up Bus
+Look up Stop
+Favourite Stop
+Favourite Bus
+Show users location
+
+
+-----------------
+Transit Driver
+-----------------
+Enter Code
+Stop tracking
+
+-----------------
+Transit Admin
+-----------------
+Assign code for time

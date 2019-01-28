@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Created By Jackson Keenan-->
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/customborder"
+    android:orientation="vertical"
+    android:weightSum="1"
+    android:alpha=".7">
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="1dp"
+        android:orientation="vertical"
+        android:weightSum="1"
+        android:alpha="1">
+        <LinearLayout
+            android:layout_width="177dp"
+            android:layout_height="wrap_content"
+            android:layout_margin="20dp"
+            android:orientation="vertical"
+            android:alpha="1">
+            <TextView
+                android:id="@+id/popUpTextViewTitle"
+                android:layout_width="166dp"
+                android:layout_height="wrap_content"
+                android:text="1A:\nUniversity Centre"
+                android:textStyle="bold"
+                android:textSize="18dp" />
+            <TextView
+                android:id="@+id/popUpTextViewFirstTime"
+                android:layout_width="220dp"
+                android:layout_height="wrap_content"
+                android:text="\t7:00"
+                android:textStyle="bold"
+                android:textSize="18dp" />
+            <TextView
+                android:id="@+id/popUpTextViewTimes"
+                android:layout_width="117dp"
+                android:layout_height="wrap_content"
+                android:text="\t 7:20\n\t 7:40"
+                android:textStyle="bold"
+                android:textSize="14dp" />
+            <ImageButton
+                android:id="@+id/dismiss"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentTop="true"
+                android:layout_alignParentRight="true"
+                android:src="@drawable/closebutton"
+                android:background="@android:color/transparent"
+                android:layout_weight="0.98"
+                android:layout_gravity="right" />
+
+        </LinearLayout>
+    </LinearLayout>
+
+</LinearLayout>

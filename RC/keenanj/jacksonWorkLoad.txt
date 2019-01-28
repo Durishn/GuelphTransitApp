@@ -1,0 +1,19 @@
+Research / Learning Google Maps API 		(3 hours)
+AndriodManifest.xml 				(1.5 hours)
+build.gradle 					(1.5 hours)
+MainActivity.java(xml)				(12 hours)
+ActivityScheduledTimes.java(xml)		(1.5 hours)
+FragmentRouteBar.java				(2 hours)
+FragmentStopBar.java				(6 hours)
+FragmentSpecialBar.java			(3 hours)
+nextBusScrape.py 				(3 hours)
+StopPopUp.java					(1 hours)
+
+The majority of my time was spent working with the Google Maps API and location sensing and calculation. The includes; 
+	- The placement of all map markers for home, favourites, and location views
+	- Calculating distances between locations for location view
+	- ClickListeners for the Bottom Bars and Map Markers
+	- Polylines for the Routes
+
+I additionally spent some time working with the Web Scraper with Aidan as well as some work with switching between the 3 views (home,favourites,location)
+* For a detailed log of work please refer to GuelphTransitWorkLog.txt (In My Submission Folder)
